@@ -1,1 +1,1 @@
-This are all the required documents erlated to te Week1 Session
+This are all the required documents related to the Week1 Session
