@@ -1,0 +1,1071 @@
+id,timestamp,country,employment_status,job_title,job_years,is_manager,hours_per_week,telecommute_days_per_week,education,is_education_computer_related,certifications
+1,12/13/2018 10:23:29,Ukraine,Full time,Developer,5,No,40,5,Doctorate/PhD,Yes,Yes
+2,12/21/2017 3:51:48,United Kingdom,Full time,Developer,10,Yes,40,1,None (no degree completed),Unknown,No
+3,12/23/2017 12:31:05,United States,Full time,Developer,3,No,40,0,Associates (2 years),Yes,Yes
+4,12/14/2017 22:09:43,Canada,Full time,Analyst,5,No,40,0,Bachelors (4 years),Yes,No
+5,1/2/2018 13:29:11,United States,Full time,DBA,5,Yes,40,0,Bachelors (4 years),Yes,No
+6,1/9/2017 9:26:58,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,Yes
+7,12/16/2017 3:08:05,United Kingdom,Part time,DBA,1.95932738095238,Yes,40.13,0,Masters,No,Yes
+8,12/11/2018 10:36:42,United States,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+9,12/19/2017 16:07:28,Australia,Full time,Analyst,5,Yes,40,0,Bachelors (4 years),Yes,Yes
+10,1/2/2018 0:25:32,India,Full time,Developer,4.78393032736957,Yes,40.6144070291164,0,Bachelors (4 years),Yes,No
+11,12/20/2017 8:29:25,United States,Full time,DBA,9,No,40,1,Associates (2 years),No,No
+12,12/23/2018 21:23:53,United States,Full time,Developer,5.0525,Yes,,4,Masters,No,No
+13,12/29/2017 12:16:45,United States,Independent or freelancer or company owner,DBA,5,No,40,5,Bachelors (4 years),No,Yes
+14,1/2/2018 15:20:12,United States,Full time,Developer,9,Yes,45,2,Bachelors (4 years),Yes,No
+15,1/9/2017 8:36:17,United States,Full time,DBA,4.97644497756969,No,40.7119648455196,0,Masters,No,No
+16,1/6/2017 10:31:21,United States,Full time,DBA,6,No,45,0,Masters,No,Yes
+17,1/11/2017 8:20:21,United States,Full time,Developer,7,Yes,45,0,Bachelors (4 years),Yes,Yes
+18,12/18/2017 10:44:59,United States,Full time,Analyst,3.25503318903319,No,40,0,None (no degree completed),Unknown,Yes
+19,1/9/2017 12:44:25,United States,Full time,DBA,1,Yes,42,0,Bachelors (4 years),Yes,No
+20,12/13/2018 6:09:33,United States,Full time,Manager,3,Yes,42,0,Bachelors (4 years),No,No
+21,1/3/2018 4:59:19,France,Full time,DBA,7,No,39,0,Associates (2 years),Yes,No
+22,12/21/2017 5:20:32,United Kingdom,Full time,Developer,4.98433333333333,No,40.408,5,Associates (2 years),Yes,No
+23,12/28/2018 4:51:24,Lithuania,Full time,Developer,3,No,40,0,Bachelors (4 years),Yes,Yes
+24,12/11/2017 13:58:56,Russia,Full time,Architect,6.4476911976912,Yes,40.7766044788545,0,Doctorate/PhD,Yes,No
+25,12/12/2017 1:05:13,Ireland,Full time,Manager,5,Yes,40,0,Bachelors (4 years),Yes,No
+26,12/12/2017 14:03:01,United States,Full time,Architect,8,No,40,0,Masters,No,No
+27,1/6/2017 22:58:54,United States,Full time,Developer,2,No,40,0,Associates (2 years),No,No
+28,12/27/2017 1:23:10,Sweden,Full time,DBA,4.84298970463457,Yes,40.4880966892151,0,Bachelors (4 years),Yes,No
+29,1/5/2017 11:30:18,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+30,12/12/2018 13:33:06,United States,Full time,DBA,4.14079305661659,Yes,40.5014285714286,0,Bachelors (4 years),No,No
+31,1/9/2017 9:36:57,United States,Full time,DBA,6,No,40,0,Bachelors (4 years),Yes,Yes
+32,1/5/2017 12:24:41,United States,Full time,DBA,4,Yes,40,1,None (no degree completed),Unknown,Yes
+33,1/5/2017 17:16:33,United States,Full time,Engineer,3,No,40,1,Associates (2 years),Yes,Yes
+34,1/6/2017 9:21:12,United States,Full time,Data Scientist,4.4225,Yes,39.7873466810967,0,Masters,Yes,Yes
+35,1/5/2017 12:13:01,United States,Full time,Developer,4.50120238095238,Yes,41.2466984126984,1,Bachelors (4 years),Yes,No
+36,12/15/2017 11:48:43,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+37,1/9/2017 16:44:40,United States,Full time,Manager,5,No,40,5,Bachelors (4 years),No,Yes
+38,12/20/2017 12:57:17,United States,Full time,DBA,5,Yes,40,1,Associates (2 years),Unknown,Yes
+39,1/9/2017 16:45:49,United States,Full time,Manager,4.93764740522635,Yes,40.0975,0,Masters,Yes,No
+40,1/15/2017 3:25:47,Netherlands,Full time,Other,3.71697183372183,No,40.1630097680098,1,Bachelors (4 years),No,No
+41,12/14/2017 23:57:51,United States,Full time,Developer,4.07064526629927,No,40.8332818137705,0,None (no degree completed),Unknown,No
+42,1/2/2019 9:08:54,United States,Full time,DBA,4.87,Yes,40.06,2,Bachelors (4 years),No,No
+43,1/5/2017 9:28:27,United States,Full time,DBA,2,No,40,0,Associates (2 years),Yes,No
+44,12/21/2018 22:49:53,Russia,Full time,Developer,4.11272897715222,No,40.8092582064971,0,Bachelors (4 years),No,No
+45,1/10/2017 6:54:51,United Kingdom,Full time,Developer,2,Yes,40,0,Bachelors (4 years),Yes,Yes
+46,1/5/2017 16:11:40,Greece,Full time,DBA,4,Yes,45,0,Masters,Yes,No
+47,1/7/2017 18:16:11,United States,Full time,Manager,3.98602941176471,Yes,40.7115705128205,2,Masters,No,No
+48,12/12/2017 12:20:54,United States,Full time,DBA,3,Yes,45,0,None (no degree completed),Unknown,No
+49,1/5/2017 8:07:01,United Kingdom,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+50,1/10/2017 23:49:58,India,Full time,DBA,5,No,40,0,Associates (2 years),No,No
+51,1/6/2017 2:51:06,United Kingdom,Full time,DBA,1,No,38,0,Bachelors (4 years),No,Yes
+52,12/12/2017 21:26:36,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+53,1/5/2017 12:00:58,United States,Full time,DBA,0,No,45,1,Bachelors (4 years),Yes,No
+54,12/12/2017 12:58:20,United States,Full time,DBA,5,No,42,2,Bachelors (4 years),Yes,No
+55,12/20/2017 10:42:43,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+56,12/21/2017 3:35:46,Philippines,Full time,Developer,2.05767094017094,No,41.2434788128538,4,Bachelors (4 years),Yes,Yes
+57,1/11/2017 2:45:05,Belgium,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+58,12/26/2017 12:19:20,United Kingdom,Independent or freelancer or company owner,Developer,4.61382100305467,No,39.9423333333333,0,Bachelors (4 years),Yes,Yes
+59,12/12/2017 15:02:10,Australia,Full time,Developer,1,No,45,0,Bachelors (4 years),Yes,Yes
+60,12/21/2017 11:57:18,United States,Full time,DBA,5,No,40,0,Masters,Yes,Yes
+61,1/9/2017 3:16:26,United Kingdom,Independent or freelancer or company owner,DBA,4.87671044546851,No,39.9600317460317,0,Bachelors (4 years),Yes,Yes
+62,1/5/2017 21:20:21,United States,Full time,DBA,5,No,40,1,Bachelors (4 years),Yes,Yes
+63,12/27/2017 12:05:29,United States,Full time,Engineer,2.53032936507936,No,40.8457467532468,5,Bachelors (4 years),No,No
+64,1/9/2017 9:42:45,United States,Full time,DBA,2,Yes,40,0,None (no degree completed),Unknown,Yes
+65,1/5/2017 22:11:27,United States,Full time,DBA,2,Yes,40,0,None (no degree completed),Unknown,No
+66,12/21/2017 17:01:49,United States,Full time,DBA,5,No,40,1,Associates (2 years),Unknown,No
+67,1/14/2017 12:06:44,United States,Full time,Developer,2,No,40,1,Bachelors (4 years),No,Yes
+68,1/5/2017 9:26:43,United States,Full time,DBA,1,No,40,1,Bachelors (4 years),No,No
+69,12/18/2017 13:56:34,United States,Full time,DBA,5,No,45,0,Bachelors (4 years),Yes,Yes
+70,12/21/2018 19:06:40,United States,Full time,DBA,5,No,45,2,Associates (2 years),Yes,Yes
+71,12/11/2017 17:33:54,United States,Full time,Analyst,4,No,40,1,Bachelors (4 years),Yes,No
+72,1/5/2017 16:39:50,Australia,Full time,Developer,10,No,40,0,Bachelors (4 years),Yes,Yes
+73,1/6/2017 21:37:13,United States,Full time,Data Scientist,4.54597619047619,Yes,40.4633333333333,0,Masters,No,Yes
+74,1/5/2017 16:56:34,United States,Full time,DBA,5,No,40,1,Masters,No,No
+75,1/5/2017 9:00:16,India,Full time,DBA,6.47808813408814,No,41.5050595238095,3,Masters,Unknown,No
+76,1/9/2017 5:57:27,United States,Full time,DBA,10,Yes,45,4,Bachelors (4 years),Yes,No
+77,1/9/2017 13:51:19,United States,Full time,Engineer,5,No,40,0,None (no degree completed),Unknown,No
+78,1/5/2017 14:48:56,United States,Full time,Developer,2,No,42,0,Bachelors (4 years),Yes,Yes
+79,12/26/2017 18:39:49,Canada,Full time,DBA,5,Yes,40,0,None (no degree completed),Unknown,No
+80,1/5/2017 19:11:44,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+81,12/19/2017 17:08:34,Sweden,Full time,DBA,4.90706368326881,No,40.7270053545496,0,None (no degree completed),Unknown,Yes
+82,1/5/2017 11:22:00,United States,Full time,DBA,2,Yes,45,0,Bachelors (4 years),No,Yes
+83,1/9/2017 8:34:07,United States,Full time,Developer,1,No,40,1,Bachelors (4 years),Yes,Yes
+84,12/20/2017 8:12:03,United States,Full time,Developer,2,No,43,0,Bachelors (4 years),Yes,No
+85,1/5/2017 12:39:00,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),No,Yes
+86,12/14/2017 13:09:22,United States,Full time,DBA,4.81679446778712,No,42.4598647724824,3,Bachelors (4 years),Yes,Yes
+87,12/20/2017 11:20:22,United States,Full time,Developer,3,No,40,3,None (no degree completed),Unknown,Yes
+88,1/7/2017 12:44:27,India,Full time,DBA,4.14672601405319,No,40.96771598007,0,Masters,Yes,No
+89,12/13/2017 3:34:11,United Kingdom,Full time,Architect,10,No,40,0,Bachelors (4 years),No,Yes
+90,1/12/2017 8:47:27,Ireland,Full time,DBA,8,No,38,0,None (no degree completed),Unknown,Yes
+91,1/6/2017 11:14:35,United States,Full time,Engineer,4,No,45,5,Associates (2 years),Yes,Yes
+92,12/18/2017 15:59:44,United States,Full time,Developer,2,No,42,0,Bachelors (4 years),Yes,No
+93,1/5/2017 17:38:48,United States,Full time,DBA,6,No,41,0,Bachelors (4 years),No,No
+94,1/5/2017 8:51:11,United States,Full time,Developer,5,No,45,5,Bachelors (4 years),Yes,Yes
+95,12/11/2018 7:56:53,United States,Full time,Developer,4.15728571428572,No,42.1963333333333,5,Associates (2 years),Unknown,No
+96,1/3/2018 10:07:06,United States,Full time,DBA,4,No,43,1,None (no degree completed),Unknown,No
+97,12/12/2018 0:30:01,United Kingdom,Full time,Developer,4,No,40,0,None (no degree completed),No,No
+98,1/11/2017 18:36:44,United States,Full time,DBA,7,No,45,3,Bachelors (4 years),No,No
+99,1/6/2017 3:47:39,Netherlands,Full time,Architect,5,Yes,38,0,Masters,No,Yes
+100,12/12/2017 11:27:22,United States,Full time,Architect,5,No,40,2,Bachelors (4 years),No,Yes
+101,12/11/2018 10:28:39,United States,Full time,Developer,1,No,40,0,Bachelors (4 years),No,No
+102,12/12/2017 11:35:37,United States,Full time,DBA,8,No,45,0,Bachelors (4 years),Yes,Yes
+103,1/9/2017 10:04:55,United States,Full time,Developer,8,No,45,0,Associates (2 years),Unknown,No
+104,1/5/2017 14:08:26,United States,Full time,DBA,1,No,40,0,Bachelors (4 years),Yes,Yes
+105,12/12/2017 11:24:56,United States,Full time,DBA,4.90397208246607,No,40.4600916414693,5,Bachelors (4 years),Yes,No
+106,12/27/2018 7:05:41,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,No
+107,12/19/2017 17:24:29,United Kingdom,Full time,Developer,5,No,40,3,Bachelors (4 years),No,No
+108,1/6/2017 8:45:22,United States,Full time,DBA,10,No,45,3,None (no degree completed),Unknown,No
+109,1/6/2017 10:59:29,United States,Full time,DBA,3,Yes,45,0,Masters,No,Yes
+110,1/12/2017 12:24:52,United States,Full time,DBA,2,No,40,1,Bachelors (4 years),No,Yes
+111,1/12/2017 9:52:48,United States,Full time,Developer,7,No,40,0,Masters,Yes,Yes
+112,1/5/2017 11:32:24,United States,Full time,Architect,6.0725,No,40,0,Masters,No,No
+113,12/16/2017 4:54:25,United States,Full time,Architect,5.39696825396825,No,39.4385476190476,1,Bachelors (4 years),Yes,Yes
+114,12/22/2017 10:55:40,Portugal,Full time,DBA,4.47839514906318,No,40.3792591376114,2,Bachelors (4 years),Yes,Yes
+115,1/6/2017 8:28:10,United Kingdom,Full time,Analyst,2,No,37,0,None (no degree completed),Yes,Yes
+116,12/21/2017 4:53:44,Norway,Full time,DBA,5,No,37,0,Bachelors (4 years),Yes,Yes
+117,1/5/2017 13:50:33,New Zealand,Full time,Developer,4.07064526629927,No,40.8332818137705,0,None (no degree completed),Unknown,No
+118,12/13/2017 15:59:58,Romania,Full time,DBA,5,No,40,3,Masters,No,Yes
+119,1/9/2017 12:36:34,United States,Independent or freelancer or company owner,Engineer,5,No,40,0,Bachelors (4 years),Yes,Yes
+120,12/12/2017 17:23:13,United States,Full time,Engineer,6,No,45,0,None (no degree completed),Unknown,Yes
+121,12/12/2017 12:54:45,United States,Full time,DBA,4.26138437820312,No,41.0792931889243,1,Masters,Yes,Yes
+122,1/14/2017 10:05:28,United States,Full time,Analyst,7,No,40,5,Masters,Yes,No
+123,12/11/2017 12:10:23,United States,Full time,DBA,4.84298970463457,Yes,40.4880966892151,0,Bachelors (4 years),Yes,No
+124,1/7/2017 7:49:54,Germany,Full time,Engineer,1,No,45,0,None (no degree completed),Unknown,No
+125,12/19/2017 10:12:07,United States,Full time,DBA,1,Yes,40,0,Bachelors (4 years),Yes,No
+126,1/3/2019 8:03:37,United States,Full time,DBA,9,No,43,1,Bachelors (4 years),Yes,No
+127,1/9/2017 11:53:12,United States,Full time,Developer,4.40575169812128,No,41.2008068716629,5,Bachelors (4 years),Yes,Yes
+128,12/20/2017 16:19:09,Australia,Full time,Manager,2,Yes,40,0,Bachelors (4 years),Yes,Yes
+129,12/19/2017 16:06:36,Australia,Full time,Developer,6,No,40,0,Masters,Yes,No
+130,12/12/2018 12:19:46,Australia,Full time,Engineer,5,No,40,3,None (no degree completed),Unknown,Yes
+131,12/14/2017 6:46:46,United Kingdom,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,Yes
+132,12/21/2017 11:37:19,United States,Full time,Engineer,5,No,40,4,Bachelors (4 years),No,Yes
+133,1/5/2017 11:34:58,United States,Full time,Architect,4.95,Yes,40.18,1,Masters,Yes,No
+134,1/3/2018 18:08:03,United States,Full time,Developer,4.40575169812128,No,41.2008068716629,5,Bachelors (4 years),Yes,Yes
+135,1/2/2018 21:27:21,United States,Full time,DBA,5,Yes,40,5,Bachelors (4 years),Yes,Yes
+136,1/9/2017 3:25:32,Germany,Full time,Other,3.35358658008658,No,38.5759544513458,0,Bachelors (4 years),Yes,No
+137,12/20/2017 8:24:05,United States,Full time,Engineer,8,No,42,0,Bachelors (4 years),Yes,No
+138,12/19/2017 18:14:56,Singapore,Full time,Analyst,10,No,45,0,Associates (2 years),Yes,No
+139,1/9/2017 8:07:05,United States,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+140,12/12/2017 11:54:10,United States,Full time,Analyst,5,No,40,2,None (no degree completed),Unknown,Yes
+141,12/26/2017 11:54:35,United States,Full time,DBA,7,No,45,0,None (no degree completed),Unknown,Yes
+142,12/18/2017 16:44:42,United States,Full time,Developer,3.95108824578712,No,40.2893202221973,1,Bachelors (4 years),Yes,No
+143,1/5/2017 17:12:16,United States,Full time,Developer,3,Yes,40,0,Bachelors (4 years),No,Yes
+144,12/31/2018 10:12:47,United States,Full time,DBA,5,No,40,0,Masters,No,Yes
+145,12/12/2017 11:38:26,United States,Full time,DBA,4.7318550656216,No,,1,Bachelors (4 years),Yes,No
+146,1/11/2017 10:29:17,United Kingdom,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+147,12/13/2018 7:37:13,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,Yes
+148,1/6/2017 11:43:39,United States,Full time,DBA,5,No,40,0,Masters,No,Yes
+149,12/11/2017 15:28:03,United States,Full time,Developer,4,No,40,0,Masters,Yes,No
+150,12/20/2017 8:13:32,United States,Full time,DBA,4.67085931479082,No,41.4131559575186,2,Associates (2 years),Yes,Yes
+151,12/12/2018 6:02:14,United States,Full time,DBA,1,No,45,1,Bachelors (4 years),Yes,No
+152,12/26/2017 13:55:11,United States,Full time,DBA,4.00588774240634,Yes,42.0528533764567,0,None (no degree completed),Unknown,No
+153,12/20/2017 12:16:48,United States,Full time,DBA,8,No,40,0,Bachelors (4 years),Yes,Yes
+154,12/22/2018 10:09:41,United States,Full time,DBA,3,No,40,0,None (no degree completed),Unknown,Yes
+155,1/9/2017 9:51:15,United States,Full time,Developer,3,No,45,5,Bachelors (4 years),No,No
+156,12/27/2017 9:51:36,United States,Full time,DBA,3,Yes,40,1,Bachelors (4 years),Yes,No
+157,12/22/2018 5:23:53,United States,Full time,Manager,2.92375127323657,Yes,40.5549871794872,1,Masters,No,No
+158,1/10/2017 1:01:10,Israel,Full time,DBA,3,No,45,0,Masters,No,No
+159,12/18/2017 13:01:51,United States,Full time,DBA,5,No,42,0,Masters,Yes,Yes
+160,12/11/2018 14:19:04,United States,Full time,Architect,3.99992448577394,No,40.0599507199371,1,None (no degree completed),Unknown,No
+161,1/10/2017 2:00:14,Germany,Full time,Analyst,3.2216464561896,No,40.6380338611337,0,Masters,No,No
+162,12/20/2017 11:30:06,United States,Full time,Developer,10,No,45,0,Associates (2 years),No,Yes
+163,1/9/2017 6:17:55,United States,Full time,Other,2.05480952380952,No,40.1908333333333,5,Bachelors (4 years),No,Yes
+164,12/20/2017 11:54:59,United States,Full time,Developer,4.45645192422728,No,,0,Bachelors (4 years),Yes,No
+165,12/22/2018 14:12:04,Iceland,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+166,12/22/2018 6:54:32,United States,Full time,Analyst,2.6035428833578,No,,0,Bachelors (4 years),No,No
+167,1/10/2017 11:54:59,United States,Full time,DBA,5,No,40,0,Masters,Yes,No
+168,12/20/2017 10:05:55,United States,Full time,DBA,4.61504132115576,No,40.8101695911809,1,Bachelors (4 years),Yes,Yes
+169,1/5/2017 11:13:46,United States,Full time,Developer,9,No,40,1,Masters,Yes,No
+170,1/9/2017 9:24:48,United States,Full time,Developer,3.49556085856008,No,42.2469422373292,0,Masters,No,Yes
+171,1/6/2017 9:10:19,United States,Independent or freelancer or company owner,Architect,5,No,40,5,Bachelors (4 years),Yes,Yes
+172,12/20/2017 3:59:49,United Kingdom,Full time,DBA,10,No,38,1,None (no degree completed),Unknown,Yes
+173,1/7/2017 11:09:56,Australia,Full time,Developer,10,Yes,45,0,Bachelors (4 years),Yes,Yes
+174,1/9/2017 3:20:17,United Kingdom,Full time,DBA,4.46164075504731,No,40.1524888466532,1,None (no degree completed),Unknown,No
+175,12/21/2018 18:15:46,United States,Full time,Engineer,5,Yes,40,2,Masters,Yes,Yes
+176,12/12/2017 11:37:21,United States,Full time,DBA,7,No,40,0,Masters,No,Yes
+177,12/20/2017 14:09:50,United States,Full time,Architect,2.71795238095238,No,40.025,5,Bachelors (4 years),Yes,Yes
+178,12/14/2017 0:20:52,Sweden,Full time,Developer,4.99447943722944,No,40.2363374958375,2,Bachelors (4 years),Yes,No
+179,12/12/2017 15:07:26,United Kingdom,Full time,Developer,10,No,37,0,Masters,Yes,No
+180,1/9/2017 9:59:25,United States,Full time,Manager,4.24819715007215,Yes,40.5837166999667,0,Masters,Yes,Yes
+181,12/11/2018 6:53:49,United States,Full time,DBA,6,No,40,0,Bachelors (4 years),Yes,No
+182,12/19/2017 9:28:11,United States,Full time,DBA,2,No,45,0,None (no degree completed),Unknown,Yes
+183,12/12/2017 14:05:50,Norway,Full time,DBA,10,No,37,1,Bachelors (4 years),Yes,Yes
+184,1/5/2017 14:05:49,United States,Full time,DBA,3,Yes,45,0,Masters,Yes,Yes
+185,1/9/2017 12:29:50,Canada,Full time,Analyst,2,No,40,0,None (no degree completed),Unknown,No
+186,12/12/2017 14:44:09,Netherlands,Full time,Developer,3.6830806246257,No,41.2063252590737,0,None (no degree completed),Unknown,Yes
+187,1/5/2017 7:03:54,United Kingdom,Full time,Engineer,10,Yes,45,0,None (no degree completed),No,No
+188,1/9/2017 11:51:37,United States,Full time,Architect,5.47261904761905,Yes,41.6945238095238,0,Masters,No,No
+189,1/13/2017 12:15:31,United States,Full time,Analyst,4,No,45,0,Bachelors (4 years),No,Yes
+190,12/18/2017 10:30:22,United States,Full time,Engineer,7,No,40,0,Bachelors (4 years),Yes,Yes
+191,12/26/2017 18:11:58,United States,Full time,DBA,6,No,45,5,Masters,Yes,Yes
+192,1/5/2017 14:57:44,United States,Full time,DBA,1,No,40,0,Masters,Yes,Yes
+193,12/18/2017 21:11:16,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+194,12/20/2017 12:07:18,New Zealand,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+195,12/12/2018 16:24:34,United States,Full time,DBA,5,Yes,40,5,Masters,Yes,Yes
+196,12/20/2017 11:44:39,United States,Full time,DBA,3,No,40,0,Bachelors (4 years),No,No
+197,1/9/2017 11:29:53,United States,Full time,Architect,8.1714880952381,No,43.7867261904762,5,None (no degree completed),Unknown,Yes
+198,1/7/2017 7:51:08,Germany,Independent or freelancer or company owner,Architect,4.63761904761905,No,40.0066666666667,0,Masters,Yes,Yes
+199,1/5/2017 11:18:38,United States,Full time,DBA,5,No,40,2,Masters,Yes,Yes
+200,1/6/2017 15:01:31,United States,Full time,Analyst,3,No,40,0,Associates (2 years),Unknown,No
+201,1/9/2017 4:33:25,India,Full time,DBA,5,Yes,40,0,Bachelors (4 years),Yes,Yes
+202,12/20/2017 11:55:04,United States,Full time,Engineer,2.8628353139109,No,44.7419199441221,1,Bachelors (4 years),Yes,No
+203,1/10/2017 8:38:22,United States,Full time,DBA,3.75654483425072,No,40.5298498913368,0,Associates (2 years),Unknown,Yes
+204,1/10/2017 21:21:14,United States,Full time,DBA,4.82728549228549,No,40.9208207070707,5,None (no degree completed),Unknown,Yes
+205,1/12/2017 18:00:25,Canada,Full time,Analyst,2,No,40,0,Bachelors (4 years),Yes,No
+206,1/5/2017 11:22:37,United States,Full time,DBA,5,No,40,0,Associates (2 years),Yes,Yes
+207,1/5/2017 11:37:46,United Kingdom,Full time,DBA,1,No,40,0,Bachelors (4 years),No,No
+208,12/20/2017 9:12:59,United States,Full time,Engineer,5,No,40,5,Bachelors (4 years),Yes,Yes
+209,12/12/2018 7:37:40,United States,Full time,Architect,3.11887033799534,No,40.0455920550038,1,None (no degree completed),Unknown,Yes
+210,12/26/2017 16:19:41,Germany,Full time,DBA,8,No,40,0,Bachelors (4 years),Yes,Yes
+211,1/2/2018 9:13:35,United States,Full time,Analyst,4,No,40,0,Bachelors (4 years),Yes,No
+212,1/11/2017 12:26:28,United States,Full time,DBA,7,No,45,0,Bachelors (4 years),No,Yes
+213,12/11/2018 10:46:34,United States,Full time,Developer,8,No,45,2,Masters,No,Yes
+214,12/12/2017 14:04:41,United States,Full time,Developer,3,No,42,0,None (no degree completed),Unknown,No
+215,1/5/2017 8:05:25,United States,Full time,DBA,5,No,45,2,Associates (2 years),No,No
+216,12/12/2017 11:43:36,United States,Full time,DBA,5,Yes,40,5,Bachelors (4 years),Yes,Yes
+217,1/5/2017 11:42:59,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+218,12/21/2017 0:21:56,Nepal,Full time,Engineer,3.82827316061991,Yes,42.1064617392412,0,Bachelors (4 years),Yes,No
+219,1/5/2017 11:51:36,United States,Full time,Engineer,1,No,40,0,Bachelors (4 years),No,No
+220,1/5/2017 10:48:57,India,Full time,DBA,5,No,40,5,Bachelors (4 years),Yes,No
+221,1/13/2017 20:41:36,Canada,Full time,DBA,1,Yes,40,1,Bachelors (4 years),Yes,Yes
+222,1/5/2017 18:55:41,United States,Full time,Developer,5,No,40,1,Bachelors (4 years),Yes,Yes
+223,1/5/2017 11:22:04,United States,Independent or freelancer or company owner,Developer,5,No,40,4,Associates (2 years),No,No
+224,12/22/2017 3:13:10,Netherlands,Full time,DBA,10,No,40,0,None (no degree completed),Unknown,Yes
+225,1/9/2017 9:22:48,United States,Full time,Other,5,No,40,5,Bachelors (4 years),Yes,Yes
+226,1/5/2017 12:22:53,United States,Full time,Developer,1,No,45,5,Bachelors (4 years),Yes,No
+227,12/21/2017 12:27:33,United States,Full time,Developer,3,No,40,0,None (no degree completed),Unknown,No
+228,1/9/2017 11:56:17,United States,Independent or freelancer or company owner,Other,5,No,40,5,Masters,Yes,Yes
+229,12/11/2018 19:14:47,United States,Full time,Developer,10,No,40,0,Associates (2 years),Yes,No
+230,12/21/2018 16:46:44,United States,Full time,Analyst,1,No,45,0,Masters,No,No
+231,1/1/2019 12:43:27,United States,Full time,Developer,5,No,42,5,Masters,Yes,No
+232,12/21/2018 15:10:47,United States,Full time,DBA,1,No,40,1,Bachelors (4 years),Yes,No
+233,1/5/2017 18:21:09,United States,Full time,Developer,4,No,40,0,Masters,No,Yes
+234,12/19/2017 8:54:25,United States,Full time,Manager,5,Yes,40,2,Associates (2 years),Unknown,Yes
+235,12/12/2017 12:15:21,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+236,12/26/2017 13:36:43,United States,Full time,DBA,5,No,40,0,Masters,Yes,Yes
+237,12/22/2017 12:10:20,Germany,Full time,DBA,5,Yes,40,5,Bachelors (4 years),Unknown,Yes
+238,1/2/2018 11:53:29,United States,Full time,Developer,3,No,40,1,Masters,Yes,Yes
+239,12/20/2017 19:58:08,United States,Full time,Analyst,7,No,40,5,None (no degree completed),Unknown,No
+240,12/20/2017 9:20:37,United States,Full time,Developer,6,No,40,0,Bachelors (4 years),Yes,No
+241,1/9/2017 8:10:45,United States,Full time,DBA,4.81679446778712,No,42.4598647724824,3,Bachelors (4 years),Yes,Yes
+242,1/5/2017 12:22:09,United States,Full time,DBA,5,No,40,1,Bachelors (4 years),Yes,No
+243,1/6/2017 16:43:31,United States,Full time,Developer,10,Yes,40,0,Associates (2 years),Yes,No
+244,1/5/2017 11:37:15,Canada,Full time,DBA,6,No,45,0,Bachelors (4 years),No,Yes
+245,12/20/2017 9:13:21,United Kingdom,Full time,DBA,6,No,40,2,Masters,Yes,No
+246,1/9/2017 11:20:11,United Kingdom,Full time,Analyst,2.6035428833578,No,41.6458592814608,0,Bachelors (4 years),No,No
+247,1/5/2017 10:59:04,United States,Full time,DBA,7,No,40,0,Bachelors (4 years),No,No
+248,1/9/2017 15:31:39,United States,Independent or freelancer or company owner,Other,5.31546031746032,Yes,41.47,0,Bachelors (4 years),No,Yes
+249,12/12/2018 1:26:27,Poland,Full time,DBA,4.19117111633958,No,40.809895582514,0,Associates (2 years),Yes,No
+250,12/11/2018 6:39:12,Poland,Independent or freelancer or company owner,Developer,6,No,45,5,Masters,Yes,Yes
+251,12/12/2017 11:51:22,United States,Full time,Developer,5.26481962481963,No,40.0047058823529,1,Associates (2 years),Yes,No
+252,1/5/2017 9:24:09,United States,Full time,DBA,1,No,38,0,Bachelors (4 years),Yes,No
+253,12/20/2017 2:26:04,Romania,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+254,12/22/2017 10:08:45,United States,Full time,Engineer,4.27276190476191,No,43.8066666666667,5,Associates (2 years),Yes,Yes
+255,12/27/2017 4:08:04,United Arab Emirates,Full time,DBA,5,No,40,1,Masters,No,No
+256,1/6/2017 8:32:27,United States,Full time,DBA,4,No,45,1,Bachelors (4 years),Yes,Yes
+257,12/20/2017 11:33:37,United States,Full time,Engineer,2,Yes,45,0,Associates (2 years),Yes,Yes
+258,12/18/2017 14:15:31,United States,Full time,Developer,4.18466666666667,Yes,40.181,5,Masters,Yes,No
+259,1/5/2017 13:52:51,United States,Full time,Developer,4.42461859707574,No,40.8928271372029,1,Bachelors (4 years),No,No
+260,12/20/2017 8:17:22,United States,Full time,Engineer,10,No,40,0,Associates (2 years),No,Yes
+261,12/20/2017 8:16:05,United States,Full time,Developer,7,No,40,2,Bachelors (4 years),Yes,No
+262,12/19/2017 18:26:50,Australia,Full time,Architect,5,No,40,2,Bachelors (4 years),Yes,Yes
+263,12/27/2017 6:44:54,United States,Full time,DBA,5,No,40,1,Bachelors (4 years),Yes,Yes
+264,1/5/2017 11:27:04,United States,Full time,Analyst,2.33794736842105,Yes,,0,Masters,No,No
+265,12/12/2017 11:56:49,United States,Full time,Architect,5,No,40,0,Bachelors (4 years),No,No
+266,12/20/2017 14:04:38,United States,Full time,Other,3,No,40,0,Bachelors (4 years),Yes,No
+267,12/13/2018 18:59:40,United States,Full time,DBA,9,No,40,1,Bachelors (4 years),No,No
+268,12/15/2017 8:07:55,United States,Full time,Manager,1,Yes,40,0,Bachelors (4 years),No,No
+269,1/5/2017 11:22:21,United States,Full time,DBA,2,No,42,0,Bachelors (4 years),Yes,No
+270,1/6/2017 9:11:06,United States,Full time,Manager,3.83342692615636,Yes,,0,Bachelors (4 years),No,No
+271,12/13/2017 2:53:12,Netherlands,Full time,DBA,4.33048561027325,No,40.9734095118135,0,Bachelors (4 years),No,Yes
+272,12/20/2017 8:25:33,United States,Full time,Developer,2,No,40,0,Bachelors (4 years),Yes,No
+273,1/5/2017 12:57:41,United States,Full time,DBA,6.05790476190476,Yes,,5,None (no degree completed),Unknown,Yes
+274,12/12/2017 14:24:54,United States,Full time,DBA,4.90397208246607,No,40.4600916414693,5,Bachelors (4 years),Yes,No
+275,1/9/2017 8:17:35,United States,Full time,DBA,2.92482034632035,No,40,2,Bachelors (4 years),No,No
+276,12/11/2017 11:23:57,Romania,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,Yes
+277,12/20/2017 10:04:29,United States,Full time,Analyst,5,No,40,0,Bachelors (4 years),Yes,Yes
+278,12/18/2017 21:49:08,United States,Full time,Architect,5,Yes,40,2,Bachelors (4 years),No,Yes
+279,1/5/2017 13:44:46,United States,Full time,Architect,9,No,40,5,Bachelors (4 years),No,No
+280,12/22/2018 8:51:19,United States,Full time,DBA,3.79384401709402,No,41.7742007517336,1,Associates (2 years),Yes,No
+281,12/14/2017 9:06:34,United Kingdom,Full time,DBA,4.46164075504731,No,40.1524888466532,1,None (no degree completed),Unknown,No
+282,12/12/2017 14:20:18,United States,Full time,Developer,5.85867009379509,No,41.0618668831169,1,Bachelors (4 years),No,Yes
+283,12/12/2017 12:52:26,United States,Full time,Developer,5,Yes,39,0,Masters,Yes,No
+284,12/12/2017 21:35:56,United States,Full time,Manager,5,Yes,45,0,Bachelors (4 years),No,Yes
+285,1/10/2017 10:57:21,United States,Full time,DBA,4,No,40,0,Masters,Yes,No
+286,1/5/2017 11:20:52,United States,Full time,DBA,2,No,45,0,Bachelors (4 years),Yes,Yes
+287,1/8/2017 18:53:26,New Zealand,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+288,12/20/2017 11:18:05,Russia,Independent or freelancer or company owner,Developer,5,No,40,5,Masters,Yes,Yes
+289,1/9/2017 8:15:37,United States,Full time,Developer,3.86503246607194,No,40.8450942285269,1,Bachelors (4 years),Yes,Yes
+290,1/5/2017 11:45:56,United States,Full time,Engineer,1,No,40,5,Bachelors (4 years),No,No
+291,1/5/2017 13:42:31,Canada,Full time,Developer,9,No,40,0,Associates (2 years),Yes,Yes
+292,12/18/2017 9:50:36,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+293,12/13/2018 13:24:10,United States,Full time,DBA,3,No,40,0,Bachelors (4 years),Yes,No
+294,12/27/2017 13:29:11,United Kingdom,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+295,1/9/2017 11:15:37,Canada,Full time,DBA,1,No,37,0,Bachelors (4 years),Yes,No
+296,1/5/2017 12:44:05,United States,Independent or freelancer or company owner,Engineer,5,No,40,0,None (no degree completed),Unknown,Yes
+297,1/7/2017 22:24:46,United States,Independent or freelancer or company owner,Developer,5,No,40,4,Bachelors (4 years),No,Yes
+298,1/13/2017 11:13:46,United States,Full time,Architect,5.34798523698524,No,40.9982427433677,0,Bachelors (4 years),No,Yes
+299,12/14/2017 10:31:09,United Kingdom,Full time,Analyst,10,No,37,2,Bachelors (4 years),Yes,No
+300,12/20/2017 10:52:43,United States,Full time,DBA,4.26334942201647,No,41.3250618788777,2,Bachelors (4 years),Yes,No
+301,12/20/2017 22:14:12,Malaysia,Full time,Analyst,3.1784880952381,Yes,41.7831913919414,0,Bachelors (4 years),Yes,Yes
+302,1/9/2017 3:06:09,Iceland,Full time,Architect,5,No,40,0,Bachelors (4 years),Yes,Yes
+303,1/9/2017 9:38:59,United States,Full time,Analyst,5.36396031746032,Yes,40,0,Bachelors (4 years),No,No
+304,1/9/2017 9:13:56,United States,Full time,DBA,5,Yes,40,1,Associates (2 years),Yes,No
+305,12/21/2017 0:17:06,Austria,Full time,DBA,3,No,45,0,Bachelors (4 years),Yes,Yes
+306,12/13/2017 12:17:49,United States,Full time,DBA,5,No,42,5,Associates (2 years),No,Yes
+307,1/9/2017 11:02:12,United Kingdom,Full time,Analyst,4.4827549011314,No,40.3424649394446,0,Bachelors (4 years),Yes,No
+308,1/5/2017 17:03:14,United States,Full time,DBA,7,No,41,0,Associates (2 years),No,Yes
+309,12/12/2017 12:24:11,United States,Full time,Developer,8,No,40,0,Bachelors (4 years),Yes,No
+310,1/10/2017 6:26:39,United States,Full time,Developer,6,No,40,0,Bachelors (4 years),No,Yes
+311,12/12/2017 9:51:18,Canada,Full time,DBA,4,No,40,0,Bachelors (4 years),Yes,No
+312,12/19/2017 18:18:03,United States,Part time,Developer,5,Yes,40,1,Masters,No,No
+313,12/20/2017 8:11:23,United States,Full time,Analyst,6,No,40,0,Associates (2 years),No,No
+314,12/18/2017 10:40:35,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,Yes
+315,1/14/2017 12:15:11,Denmark,Full time,DBA,6,No,40,0,Bachelors (4 years),Unknown,Yes
+316,12/20/2017 9:10:01,United States,Full time,Manager,5,Yes,40,1,Masters,Yes,Yes
+317,1/9/2017 11:55:54,Italy,Full time,Manager,4.59901222317613,No,40.6638428087126,0,Masters,Yes,No
+318,12/11/2018 13:05:22,United States,Full time,Developer,5.43607142857143,Yes,41.0877871572872,0,None (no degree completed),Unknown,No
+319,12/18/2017 13:43:27,Costa Rica,Full time,DBA,5,No,40,4,Bachelors (4 years),Yes,No
+320,12/20/2017 11:30:38,United States,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,Yes
+321,1/14/2017 12:26:40,United States,Full time,DBA,5,No,45,5,Masters,No,Yes
+322,12/22/2018 11:01:44,United States,Full time,Analyst,4,Yes,45,0,None (no degree completed),Unknown,No
+323,1/5/2017 11:15:53,United States,Full time,Architect,0,Yes,40,1,Bachelors (4 years),No,No
+324,1/9/2017 9:05:14,United States,Full time,DBA,6,No,40,0,Bachelors (4 years),Yes,Yes
+325,1/5/2017 14:29:17,Finland,Full time,Architect,6,No,40,1,Masters,Yes,Yes
+326,1/7/2017 12:47:20,United States,Full time,DBA,5,No,40,5,Masters,Yes,Yes
+327,1/9/2017 8:25:44,United States,Full time,DBA,5,No,40,0,Masters,Yes,Yes
+328,12/20/2017 11:36:53,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+329,12/12/2017 12:34:20,Canada,Full time,Manager,5,Yes,40,1,Bachelors (4 years),Unknown,No
+330,1/5/2017 16:40:16,United States,Full time,Engineer,7,No,45,1,Bachelors (4 years),Yes,Yes
+331,1/9/2017 13:08:14,United States,Full time,Analyst,8,Yes,38,0,Bachelors (4 years),Yes,No
+332,1/6/2017 15:21:09,United States,Full time,DBA,5,No,45,0,Bachelors (4 years),Yes,No
+333,1/10/2017 8:21:33,United States,Independent or freelancer or company owner,Architect,4.1758373015873,No,39.9666666666667,1,Bachelors (4 years),Yes,No
+334,12/17/2017 6:27:26,United States,Full time,DBA,2,No,40,5,Bachelors (4 years),No,Yes
+335,1/6/2017 10:25:05,United States,Full time,DBA,2,No,45,0,Bachelors (4 years),Yes,No
+336,1/5/2017 14:36:19,United States,Full time,DBA,2,Yes,40,0,Masters,No,Yes
+337,1/5/2017 13:35:56,United States,Full time,Developer,4.7707968745634,No,40.8104297959568,0,Bachelors (4 years),Yes,Yes
+338,1/9/2017 9:06:29,United States,Full time,Developer,5,No,40,5,Bachelors (4 years),Yes,Yes
+339,12/16/2017 13:17:38,United States,Full time,Developer,6,No,42,0,Bachelors (4 years),Yes,Yes
+340,1/9/2017 8:58:00,United States,Full time,DBA,5,No,40,5,None (no degree completed),Unknown,Yes
+341,12/15/2017 2:33:50,United Kingdom,Full time,DBA,4,Yes,40,0,None (no degree completed),Unknown,Yes
+342,12/16/2017 17:11:22,Lithuania,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,Yes
+343,1/9/2017 8:24:21,United States,Full time,DBA,6.66507657620158,No,42.1861481149569,5,Bachelors (4 years),No,No
+344,1/9/2017 8:21:10,United States,Full time,DBA,4,No,40,0,Bachelors (4 years),Yes,Yes
+345,12/18/2017 14:52:19,Romania,Full time,DBA,4.75954540585404,No,40.8074922619172,0,Masters,No,Yes
+346,1/9/2017 18:52:49,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),No,Yes
+347,1/6/2017 11:10:42,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+348,12/12/2018 23:58:26,United Kingdom,Full time,DBA,5,No,40,0,Bachelors (4 years),No,No
+349,1/6/2017 2:59:30,United Kingdom,Full time,DBA,1,Yes,38,0,Bachelors (4 years),No,No
+350,12/27/2017 13:16:46,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,No
+351,12/23/2017 20:26:09,United States,Full time,DBA,4.33048561027325,No,40.9734095118135,0,Bachelors (4 years),No,Yes
+352,12/12/2017 16:02:56,United States,Full time,DBA,4.90397208246607,No,40.4600916414693,5,Bachelors (4 years),Yes,No
+353,12/16/2017 8:34:38,United States,Full time,Architect,2,No,45,1,Masters,Yes,No
+354,1/7/2017 0:57:32,United States,Full time,DBA,4,No,40,1,None (no degree completed),Unknown,Yes
+355,1/9/2017 11:27:38,United States,Full time,DBA,4.33048561027325,No,40.9734095118135,0,Bachelors (4 years),No,Yes
+356,1/5/2017 19:34:39,United States,Full time,DBA,4.14672601405319,No,40.96771598007,0,Masters,Yes,No
+357,12/22/2018 9:40:55,United States,Full time,DBA,9,No,40,0,Bachelors (4 years),Yes,Yes
+358,1/5/2017 12:03:55,United States,Full time,DBA,1,No,45,1,Bachelors (4 years),Yes,Yes
+359,1/13/2017 11:35:28,United States,Full time,DBA,6,No,40,1,Associates (2 years),No,Yes
+360,12/18/2017 14:20:51,Canada,Full time,DBA,7,No,40,3,Bachelors (4 years),Yes,No
+361,1/6/2017 5:27:12,Jamaica,Full time,DBA,4.044,Yes,40.3263484015984,0,Masters,Yes,No
+362,1/5/2017 10:13:14,United States,Full time,DBA,5,No,40,1,Bachelors (4 years),No,Yes
+363,12/15/2017 22:57:58,Nicaragua,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+364,12/21/2017 12:44:17,United States,Full time,Engineer,5,Yes,40,0,Bachelors (4 years),No,Yes
+365,12/31/2018 5:17:00,United States,Full time,Architect,2.5633956043956,No,41.7202604857733,2,Bachelors (4 years),Yes,No
+366,12/20/2017 9:29:59,United States,Full time,DBA,3,No,40,0,Associates (2 years),No,Yes
+367,12/22/2017 6:39:11,United Kingdom,Full time,Developer,1,No,42,0,None (no degree completed),Unknown,No
+368,12/11/2018 21:42:37,United States,Full time,DBA,8,No,40,0,Masters,No,Yes
+369,12/22/2018 7:41:44,United States,Full time,Analyst,2,No,40,1,Associates (2 years),No,No
+370,12/20/2017 12:15:21,Canada,Full time,DBA,2,No,40,0,Associates (2 years),Yes,Yes
+371,1/6/2017 1:51:29,South Africa,Full time,DBA,4.56334920634921,No,39.3099927849928,0,None (no degree completed),No,Yes
+372,1/5/2017 15:21:56,United States,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+373,1/9/2017 5:53:46,United Kingdom,Full time,DBA,4.33048561027325,No,40.9734095118135,0,Bachelors (4 years),No,Yes
+374,12/12/2017 22:20:41,Romania,Full time,Developer,5,No,40,1,Doctorate/PhD,No,Yes
+375,1/6/2017 4:35:35,Brazil,Full time,Analyst,3.81350518925519,No,41.0795184023493,0,Bachelors (4 years),Yes,Yes
+376,1/5/2017 12:44:21,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),No,Yes
+377,12/12/2017 12:42:41,United States,Full time,Manager,5,Yes,40,0,Bachelors (4 years),Yes,No
+378,12/27/2017 10:10:35,United States,Full time,Analyst,2,Yes,45,0,Masters,No,No
+379,1/2/2018 5:38:16,United Kingdom,Full time,Other,10,No,38,0,Bachelors (4 years),Yes,Yes
+380,1/5/2017 11:50:07,United States,Full time,DBA,6.76945557220557,Yes,40.7700812798313,0,Doctorate/PhD,No,Yes
+381,1/5/2017 11:40:23,United States,Full time,Manager,3.72166666666667,Yes,40.1466666666667,5,Masters,Yes,No
+382,1/6/2017 1:56:45,Czech Republic,Full time,DBA,4.51547895160395,Yes,42.4202808744489,1,Bachelors (4 years),Yes,Yes
+383,1/9/2017 9:29:18,Canada,Full time,DBA,4.33048561027325,No,40.9734095118135,0,Bachelors (4 years),No,Yes
+384,1/9/2017 13:38:32,United States,Full time,Analyst,4.37360350760351,No,40.655902985903,1,Bachelors (4 years),No,No
+385,12/31/2018 6:59:32,United States,Full time,Developer,5,No,40,5,Bachelors (4 years),No,Yes
+386,12/21/2018 23:01:51,United States,Full time,Developer,7,No,38,5,Doctorate/PhD,Yes,No
+387,12/15/2017 7:30:52,United States,Full time,DBA,8,No,45,0,Bachelors (4 years),Yes,Yes
+388,1/5/2017 12:41:53,United States,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+389,1/11/2017 6:55:49,Serbia and Montenegro,Full time,DBA,4.74480671697584,Yes,38.9621243364479,0,None (no degree completed),No,Yes
+390,1/7/2017 9:04:44,United States,Full time,Architect,4,No,40,0,Bachelors (4 years),Yes,No
+391,12/22/2017 15:14:40,United States,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,No
+392,1/3/2018 13:24:02,United States,Full time,DBA,6.15243440851374,No,40.1387616819455,1,None (no degree completed),Unknown,Yes
+393,12/11/2018 23:45:38,Bulgaria,Full time,Manager,1,Yes,45,0,Bachelors (4 years),Yes,No
+394,1/5/2017 11:22:39,United States,Full time,DBA,5,No,40,0,Associates (2 years),Yes,Yes
+395,12/13/2017 9:45:26,Poland,Full time,DBA,4,No,40,2,Masters,Yes,Yes
+396,12/12/2017 12:48:33,United States,Full time,Analyst,3,No,45,0,None (no degree completed),Unknown,No
+397,12/26/2017 11:18:19,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),No,No
+398,1/10/2017 19:17:12,United States,Full time,Developer,3,No,40,0,Masters,Yes,Yes
+399,1/11/2017 5:47:09,Italy,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,Yes
+400,12/21/2017 5:37:45,United Kingdom,Full time,Analyst,2.46553249528249,No,40.5607298257298,0,Associates (2 years),No,No
+401,12/18/2017 13:35:30,Ireland,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,Yes
+402,1/5/2017 17:01:45,Portugal,Full time,DBA,10,Yes,40,0,Bachelors (4 years),Yes,No
+403,12/20/2017 3:25:58,United Kingdom,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,No
+404,12/11/2018 9:11:08,United States,Full time,Engineer,3,No,40,0,Bachelors (4 years),Yes,Yes
+405,1/9/2017 3:26:33,United Kingdom,Full time,Other,6,No,45,2,Bachelors (4 years),Yes,Yes
+406,1/10/2017 9:31:37,United States,Full time,Architect,4.39157142857143,Yes,40.0883333333333,1,Bachelors (4 years),Yes,Yes
+407,1/9/2017 13:14:26,United States,Full time,Other,8,No,40,0,Associates (2 years),Yes,No
+408,1/5/2017 12:03:45,Australia,Full time,DBA,5.1241443001443,No,41.0238684648685,0,Bachelors (4 years),Unknown,Yes
+409,1/11/2017 9:18:46,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,No
+410,1/9/2017 4:00:10,United Kingdom,Full time,Developer,5,No,38,0,None (no degree completed),No,No
+411,1/6/2017 16:37:21,United States,Full time,DBA,4.46140457800713,No,41.3329660943632,1,Associates (2 years),Yes,Yes
+412,12/11/2017 2:28:07,Spain,Full time,DBA,5.09177136752137,No,40.3388000888001,3,Masters,Yes,Yes
+413,1/5/2017 10:02:34,United States,Full time,DBA,3,No,40,0,Bachelors (4 years),Yes,No
+414,1/11/2017 1:02:21,Netherlands,Full time,DBA,1,No,40,3,Associates (2 years),Yes,No
+415,12/13/2018 16:29:44,United States,Full time,DBA,7,No,40,0,None (no degree completed),Unknown,No
+416,12/28/2018 9:10:49,United States,Full time,DBA,9,No,44,0,Bachelors (4 years),Yes,Yes
+417,12/18/2017 19:11:05,United States,Full time,Architect,1.98459862275406,No,40.7180805507711,1,Bachelors (4 years),No,No
+418,12/18/2017 10:21:11,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,Yes
+419,1/5/2017 8:01:10,Germany,Full time,Developer,6,No,45,0,Bachelors (4 years),Yes,No
+420,12/20/2017 9:03:11,United States,Full time,Developer,4.94511378307467,No,40.146451752994,0,Masters,Yes,No
+421,12/20/2017 1:32:32,Turkey,Full time,Developer,4.53021967601617,Yes,42.3697304628169,0,Bachelors (4 years),Yes,Yes
+422,12/20/2017 9:27:58,Argentina,Full time,DBA,5,No,40,0,None (no degree completed),Yes,No
+423,1/9/2017 13:35:21,Switzerland,Full time,Developer,5,No,40,0,Masters,No,No
+424,12/12/2017 14:06:57,United States,Full time,DBA,2,No,40,1,Bachelors (4 years),No,No
+425,12/12/2018 23:55:10,Norway,Full time,DBA,5,No,40,4,None (no degree completed),Unknown,Yes
+426,12/29/2017 8:13:29,United Kingdom,Full time,DBA,1,No,38,0,None (no degree completed),Unknown,Yes
+427,1/6/2017 1:24:41,France,Full time,Manager,4.24819715007215,Yes,40.5837166999667,0,Masters,Yes,Yes
+428,12/19/2017 10:17:39,Brazil,Full time,DBA,5,No,40,1,Bachelors (4 years),No,Yes
+429,1/5/2017 14:26:24,United States,Full time,Developer,6.21136547649976,No,41.6767333361083,5,Bachelors (4 years),No,No
+430,1/11/2017 5:00:56,United Kingdom,Full time,Developer,1,No,40,0,Bachelors (4 years),No,Yes
+431,1/5/2017 11:20:28,United States,Full time,DBA,4.58955810683984,Yes,40.8562840819312,0,None (no degree completed),Unknown,Yes
+432,12/21/2018 18:15:11,Canada,Full time,Developer,8,Yes,40,1,None (no degree completed),Unknown,No
+433,12/11/2018 17:40:56,United States,Full time,Architect,5,No,40,2,Bachelors (4 years),No,Yes
+434,12/18/2017 21:19:38,Australia,Full time,Developer,4.99447943722944,No,40.2363374958375,2,Bachelors (4 years),Yes,No
+435,1/9/2017 19:18:21,United States,Full time,Developer,1,No,45,1,Bachelors (4 years),No,Yes
+436,1/2/2018 6:39:49,United States,Full time,Analyst,10,No,45,1,Associates (2 years),Yes,Yes
+437,1/13/2017 16:46:13,Germany,Full time,DBA,2,No,40,2,Bachelors (4 years),Yes,No
+438,1/9/2017 9:06:53,United States,Full time,Analyst,5,No,40,0,Bachelors (4 years),Yes,No
+439,12/12/2017 14:45:41,United States,Full time,DBA,3,No,40,0,Associates (2 years),Yes,No
+440,1/9/2017 14:50:37,United States,Full time,Developer,4.32008333333333,Yes,40.563380952381,3,Bachelors (4 years),Yes,No
+441,1/9/2017 2:13:02,Slovenia,Full time,DBA,8,No,40,5,Bachelors (4 years),Yes,Yes
+442,1/5/2017 9:22:27,Belgium,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+443,12/14/2017 5:45:40,Poland,Full time,DBA,4.2910907980908,Yes,41.4973214285714,0,Associates (2 years),Yes,No
+444,12/20/2017 8:28:51,United States,Full time,Developer,1,No,40,1,Bachelors (4 years),Yes,No
+445,12/18/2017 23:26:58,United States,Full time,DBA,5,No,40,1,Masters,No,Yes
+446,1/5/2017 12:51:31,United States,Full time,DBA,5,Yes,40,0,Masters,Yes,Yes
+447,12/12/2018 7:15:30,United Kingdom,Full time,DBA,4,No,40,0,None (no degree completed),Unknown,No
+448,12/20/2017 3:49:12,United Kingdom,Full time,DBA,4.71650020082257,Yes,41.6771671759613,0,Bachelors (4 years),No,Yes
+449,12/12/2017 11:48:05,United States,Full time,Manager,5,Yes,40,0,None (no degree completed),Unknown,No
+450,12/18/2017 17:22:30,Canada,Full time,DBA,1,No,40,0,None (no degree completed),Unknown,No
+451,12/12/2017 13:15:31,United States,Full time,DBA,1,No,40,5,Masters,Yes,Yes
+452,12/12/2017 14:10:14,Canada,Full time,Developer,8,No,40,0,Bachelors (4 years),Unknown,No
+453,1/6/2017 4:56:27,United Kingdom,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+454,12/12/2017 11:24:22,United States,Full time,DBA,1,Yes,45,5,Bachelors (4 years),Yes,Yes
+455,1/9/2017 7:31:49,Bermuda,Full time,Developer,5.54792352092352,Yes,,0,Bachelors (4 years),No,Yes
+456,1/6/2017 6:36:57,Belgium,Full time,Developer,4.7707968745634,No,,0,Bachelors (4 years),Yes,Yes
+457,12/12/2017 11:40:49,United States,Full time,Manager,4.5266957064977,Yes,41.0898674093389,0,Bachelors (4 years),Yes,Yes
+458,12/11/2018 9:17:03,United States,Full time,Developer,3.95108824578712,No,40.2893202221973,1,Bachelors (4 years),Yes,No
+459,12/18/2017 10:54:11,United States,Full time,Developer,5,No,40,3,Bachelors (4 years),Yes,No
+460,1/5/2017 7:36:40,United Kingdom,Full time,DBA,1,No,37,0,Bachelors (4 years),Yes,Yes
+461,1/9/2017 10:56:50,United Kingdom,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+462,1/5/2017 11:34:37,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,Yes
+463,1/9/2017 11:08:08,Canada,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,No
+464,1/6/2017 15:18:41,United States,Full time,Analyst,0,No,40,0,Associates (2 years),No,No
+465,12/13/2017 17:16:42,United States,Full time,DBA,1,No,40,0,Bachelors (4 years),Yes,Yes
+466,1/2/2018 5:05:23,United States,Full time,Engineer,9,No,45,0,Bachelors (4 years),No,No
+467,12/27/2018 6:52:50,United States,Full time,DBA,1,No,45,1,Bachelors (4 years),Yes,No
+468,12/22/2017 7:51:50,United States,Full time,Engineer,5,Yes,40,5,Bachelors (4 years),No,Yes
+469,1/5/2017 13:07:27,United States,Full time,Developer,1,No,45,5,Bachelors (4 years),Yes,No
+470,12/26/2017 16:30:55,United States,Independent or freelancer or company owner,Developer,4.69770217088615,No,41.6041666666667,0,Masters,Yes,No
+471,1/5/2017 12:33:41,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+472,12/11/2018 9:10:35,United Kingdom,Full time,Manager,8,Yes,45,0,Doctorate/PhD,No,No
+473,12/26/2018 8:58:21,United States,Full time,Developer,4,No,40,0,Bachelors (4 years),No,No
+474,1/5/2017 11:15:56,United States,Full time,Developer,10,Yes,45,0,Masters,Yes,Yes
+475,1/6/2017 11:24:22,Poland,Full time,Developer,4.78393032736957,Yes,40.6144070291164,0,Bachelors (4 years),Yes,No
+476,12/12/2017 11:34:49,United States,Full time,DBA,2,No,45,0,Bachelors (4 years),No,No
+477,1/7/2017 12:00:28,United States,Full time,Developer,4,No,45,1,Bachelors (4 years),No,No
+478,1/6/2017 6:21:12,Norway,Full time,Developer,5.54792352092352,Yes,41.0347637085137,0,Bachelors (4 years),No,Yes
+479,1/5/2017 11:21:49,United States,Full time,DBA,5.10358453416377,No,41.1304485743273,5,Bachelors (4 years),Yes,Yes
+480,1/6/2017 17:06:30,United States,Full time,Developer,7,No,40,0,Bachelors (4 years),Yes,Yes
+481,12/12/2017 12:01:17,United States,Full time,Manager,3.83342692615636,Yes,41.0924308311975,0,Bachelors (4 years),No,No
+482,12/20/2017 11:22:10,United Kingdom,Full time,DBA,5,No,40,1,Bachelors (4 years),Yes,Yes
+483,1/11/2017 6:47:44,Serbia and Montenegro,Full time,DBA,9,No,44,0,Bachelors (4 years),Yes,Yes
+484,12/22/2017 14:54:07,United Kingdom,Full time,DBA,2.34723580341227,No,40.3435811688312,5,None (no degree completed),No,Yes
+485,12/20/2017 7:07:11,Germany,Full time,Developer,5.4172757000387,No,38.8382401277584,0,Bachelors (4 years),Unknown,No
+486,12/12/2017 11:32:11,United States,Full time,DBA,3.79384401709402,No,41.7742007517336,1,Associates (2 years),Yes,No
+487,12/21/2018 21:44:52,United States,Full time,Developer,5,No,40,5,Bachelors (4 years),No,No
+488,12/15/2017 11:38:19,United States,Full time,DBA,2.92482034632035,No,40,2,Bachelors (4 years),No,No
+489,12/21/2017 7:40:36,United Kingdom,Independent or freelancer or company owner,DBA,5,No,40,0,Bachelors (4 years),No,Yes
+490,1/6/2017 17:53:56,United States,Full time,DBA,1,Yes,40,1,Masters,No,Yes
+491,12/21/2017 19:44:11,Sweden,Independent or freelancer or company owner,Developer,4.90416666666667,No,40.02,3,None (no degree completed),No,No
+492,1/9/2017 9:41:54,Canada,Full time,DBA,8,No,37,0,Bachelors (4 years),Yes,Yes
+493,1/9/2017 2:12:30,Austria,Full time,DBA,10,Yes,45,0,Bachelors (4 years),No,Yes
+494,12/25/2018 20:23:49,United States,Full time,Manager,4,Yes,40,0,Bachelors (4 years),No,No
+495,1/6/2017 0:28:21,Germany,Full time,Developer,5,No,40,0,Associates (2 years),Yes,No
+496,12/20/2017 8:23:57,United States,Full time,Developer,5.58161904761905,Yes,41.7958785822021,5,Bachelors (4 years),Yes,Yes
+497,1/5/2017 11:52:46,Uganda,Full time,Developer,3.95108824578712,No,40.2893202221973,1,Bachelors (4 years),Yes,No
+498,1/9/2017 11:40:36,United States,Full time,Analyst,3.81350518925519,No,41.0795184023493,0,Bachelors (4 years),Yes,Yes
+499,1/2/2018 9:02:25,United States,Full time,DBA,1,Yes,45,2,Bachelors (4 years),Yes,No
+500,12/19/2017 8:28:27,Switzerland,Full time,Engineer,2.1221066017316,No,43.7023201703628,0,Masters,Yes,Yes
+501,12/20/2017 11:45:21,United States,Independent or freelancer or company owner,Developer,5,Yes,40,0,Bachelors (4 years),No,No
+502,12/21/2018 14:25:22,United States,Full time,Developer,5,No,40,2,Bachelors (4 years),No,No
+503,12/21/2017 2:12:36,United Kingdom,Full time,DBA,8,No,40,0,Bachelors (4 years),Yes,No
+504,1/5/2017 12:09:41,United States,Full time,Engineer,2.76462112736204,No,40.870707529098,1,None (no degree completed),Unknown,No
+505,12/11/2018 23:40:48,Romania,Full time,DBA,10,No,40,0,Masters,Yes,Yes
+506,12/21/2018 17:28:56,United States,Full time,Developer,9,No,45,1,None (no degree completed),Unknown,No
+507,12/29/2017 16:41:49,United States,Independent or freelancer or company owner,Developer,2,No,40,0,Masters,Yes,No
+508,12/20/2017 12:07:17,United States,Full time,Developer,10,No,40,5,None (no degree completed),Unknown,No
+509,12/19/2018 3:21:09,Netherlands,Full time,Developer,3.6830806246257,No,41.2063252590737,0,None (no degree completed),Unknown,Yes
+510,12/12/2017 12:30:06,United States,Full time,DBA,10,No,44,5,Bachelors (4 years),Yes,Yes
+511,1/5/2017 16:37:17,United States,Full time,DBA,5,No,40,1,Associates (2 years),No,Yes
+512,1/9/2017 13:04:50,United States,Full time,Architect,3.2388722943723,Yes,42.0512016594517,0,Bachelors (4 years),Yes,Yes
+513,1/5/2017 11:21:54,Canada,Full time,Architect,10,No,40,0,Bachelors (4 years),Yes,No
+514,12/20/2017 9:15:36,United States,Full time,Engineer,2.30782462761824,No,40.7709312261076,0,Associates (2 years),Yes,Yes
+515,12/20/2017 8:25:18,United States,Full time,Analyst,4.61299695402637,No,40.3178109152973,1,None (no degree completed),Unknown,No
+516,12/12/2017 22:43:45,United States,Full time,DBA,4,No,40,0,Bachelors (4 years),Yes,No
+517,12/19/2017 19:59:13,United States,Full time,Engineer,1,No,43,1,Bachelors (4 years),No,No
+518,12/11/2018 7:03:06,Ireland,Full time,DBA,3,No,45,0,Masters,Yes,No
+519,1/9/2017 2:07:32,Sweden,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+520,1/9/2017 11:24:11,United States,Full time,DBA,5,Yes,42,0,None (no degree completed),Unknown,No
+521,12/11/2017 10:14:54,United Kingdom,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,Yes
+522,1/5/2017 11:34:43,United States,Full time,DBA,5,No,45,0,Bachelors (4 years),Yes,No
+523,1/9/2017 8:07:18,United States,Full time,Other,3.35358658008658,No,38.5759544513458,0,Bachelors (4 years),Yes,No
+524,12/12/2018 5:29:19,United States,Full time,DBA,5,Yes,40,0,Masters,Yes,Yes
+525,12/20/2017 2:40:44,Denmark,Full time,DBA,4,Yes,39,0,Bachelors (4 years),Unknown,Yes
+526,12/26/2017 5:39:31,Brazil,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+527,1/5/2017 16:03:50,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+528,12/14/2018 4:56:50,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+529,12/27/2017 9:14:44,United Kingdom,Full time,DBA,5,No,40,0,Bachelors (4 years),No,Yes
+530,1/2/2018 10:22:21,United States,Full time,DBA,4.26334942201647,No,41.3250618788777,2,Bachelors (4 years),Yes,No
+531,12/21/2017 2:28:57,Netherlands,Full time,Manager,5.3611423021423,Yes,41.2250202020202,0,None (no degree completed),No,No
+532,12/13/2018 5:02:44,Ukraine,Full time,DBA,10,Yes,40,0,Masters,Yes,Yes
+533,1/6/2017 12:00:14,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+534,12/16/2018 11:05:49,Sweden,Full time,DBA,4.97644497756969,No,40.7119648455196,0,Masters,No,No
+535,1/6/2017 8:00:52,United States,Full time,Developer,2,No,42,3,Bachelors (4 years),No,Yes
+536,1/2/2018 19:05:22,United States,Full time,Analyst,1,No,40,0,Bachelors (4 years),Yes,Yes
+537,12/13/2017 13:25:23,United States,Full time,DBA,9,No,45,0,Bachelors (4 years),No,Yes
+538,1/5/2017 8:38:36,United Kingdom,Full time,Developer,7,No,45,0,Bachelors (4 years),Yes,Yes
+539,12/28/2018 9:38:28,United States,Full time,DBA,4.26334942201647,No,41.3250618788777,2,Bachelors (4 years),Yes,No
+540,12/20/2017 12:12:54,United States,Full time,Manager,5,Yes,40,0,None (no degree completed),Unknown,Yes
+541,12/19/2017 15:30:21,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+542,1/5/2017 16:31:07,United Kingdom,Full time,DBA,4.90706368326881,No,40.7270053545496,0,None (no degree completed),Unknown,Yes
+543,12/12/2017 12:42:45,United States,Full time,DBA,10,No,40,0,Masters,No,No
+544,1/5/2017 11:13:26,United States,Full time,DBA,5,Yes,40,5,Bachelors (4 years),Yes,Yes
+545,1/5/2017 21:36:46,United States,Full time,Architect,5,Yes,40,5,None (no degree completed),Unknown,Yes
+546,12/20/2017 3:34:27,United Kingdom,Full time,Other,3,No,40,3,Bachelors (4 years),No,Yes
+547,12/18/2017 13:41:59,United States,Full time,Architect,2.71795238095238,No,40.025,5,Bachelors (4 years),Yes,Yes
+548,12/20/2017 8:21:23,United States,Full time,Manager,5.50541666666667,Yes,41.5319444444445,3,Bachelors (4 years),Yes,No
+549,12/20/2017 8:27:11,United States,Full time,DBA,3.20430158730159,Yes,41.0512380952381,5,Masters,No,Yes
+550,12/12/2017 9:16:53,United States,Full time,Engineer,1,No,40,0,Bachelors (4 years),Yes,Yes
+551,12/12/2017 11:25:25,United States,Full time,Analyst,2,No,40,0,Bachelors (4 years),No,No
+552,12/27/2017 2:35:58,United Kingdom,Full time,DBA,5,No,45,0,None (no degree completed),Unknown,No
+553,1/6/2017 18:21:08,United States,Full time,Systems Administrator,4.79633333333333,Yes,39.9588531746032,0,Associates (2 years),Yes,Yes
+554,1/9/2017 5:48:37,United Kingdom,Full time,DBA,4.58955810683984,Yes,40.8562840819312,0,None (no degree completed),Unknown,Yes
+555,1/6/2017 12:41:00,United States,Full time,DBA,5,No,40,2,None (no degree completed),Unknown,No
+556,1/10/2017 9:09:20,United States,Full time,DBA,5,No,45,2,None (no degree completed),Unknown,Yes
+557,12/13/2018 7:14:59,Ukraine,Full time,DBA,4.30050338550339,No,41.0893756243756,5,Masters,Unknown,Yes
+558,1/11/2017 7:36:03,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,Yes
+559,12/11/2018 9:53:23,Canada,Full time,DBA,4.92634970611538,No,39.912,0,None (no degree completed),Yes,No
+560,12/12/2017 11:24:22,United States,Full time,DBA,2,No,40,3,Bachelors (4 years),Yes,No
+561,1/3/2018 20:55:57,United States,Full time,DBA,2.84677744477744,No,41.5434830447331,1,Masters,Yes,No
+562,1/6/2017 1:40:01,Slovenia,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+563,1/9/2017 0:30:18,Australia,Full time,Developer,4.11272897715222,No,40.8092582064971,0,Bachelors (4 years),No,No
+564,12/12/2017 23:54:06,South Africa,Full time,Developer,3.6830806246257,No,41.2063252590737,0,None (no degree completed),Unknown,Yes
+565,12/12/2017 11:58:20,New Zealand,Full time,DBA,6.05790476190476,Yes,43.6033333333333,5,None (no degree completed),Unknown,Yes
+566,12/20/2017 11:21:27,United States,Full time,DBA,1,Yes,45,1,Bachelors (4 years),Yes,No
+567,1/2/2018 14:53:35,United States,Full time,DBA,4.90397208246607,No,40.4600916414693,5,Bachelors (4 years),Yes,No
+568,1/5/2017 13:54:20,United States,Full time,DBA,3.70399044756057,Yes,41.4989178327142,0,Bachelors (4 years),Yes,Yes
+569,12/15/2017 7:17:28,Netherlands,Full time,Developer,1,No,40,1,Bachelors (4 years),Yes,Yes
+570,12/12/2017 19:26:43,United States,Full time,Manager,3.83342692615636,Yes,41.0924308311975,0,Bachelors (4 years),No,No
+571,12/18/2017 13:34:43,United States,Full time,Developer,3,No,40,0,Bachelors (4 years),Yes,No
+572,1/5/2017 11:11:47,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,No
+573,1/1/2019 18:12:20,United States,Full time,Manager,5,Yes,40,1,Bachelors (4 years),Yes,No
+574,12/19/2017 7:38:01,Canada,Full time,Architect,3.4615,No,39.88,3,Associates (2 years),Yes,Yes
+575,1/5/2017 11:48:44,United States,Full time,DBA,5,Yes,40,1,Bachelors (4 years),No,No
+576,1/6/2017 2:28:59,United Kingdom,Full time,Developer,4.07064526629927,No,40.8332818137705,0,None (no degree completed),Unknown,No
+577,1/8/2017 17:10:51,Australia,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+578,12/20/2017 6:40:17,United Kingdom,Full time,DBA,2,No,37,0,Bachelors (4 years),No,Yes
+579,12/19/2017 12:38:32,United Kingdom,Independent or freelancer or company owner,DBA,3.76556889007268,No,39.99,5,Bachelors (4 years),Yes,Yes
+580,12/21/2017 3:22:26,Sweden,Full time,DBA,2,No,42,0,None (no degree completed),Unknown,No
+581,12/13/2017 1:15:58,United Kingdom,Full time,DBA,5,No,37,1,None (no degree completed),Yes,No
+582,12/21/2018 14:23:19,United States,Full time,Analyst,1,No,40,0,Associates (2 years),No,No
+583,1/5/2017 13:44:36,United States,Full time,Developer,7,Yes,45,0,None (no degree completed),Unknown,No
+584,12/18/2017 20:47:53,United States,Full time,Developer,3,No,44,1,Associates (2 years),Yes,Yes
+585,12/12/2018 10:43:50,United States,Full time,Architect,5,No,40,0,Bachelors (4 years),No,Yes
+586,1/5/2017 18:37:55,Australia,Full time,Developer,3,No,37,0,Masters,Unknown,No
+587,12/11/2017 18:15:32,United States,Full time,Other,5,Yes,40,5,Masters,Yes,Yes
+588,12/21/2018 16:26:24,United States,Full time,DBA,5,No,40,0,Associates (2 years),Yes,No
+589,1/10/2017 3:41:30,Ireland,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,Yes
+590,12/11/2018 11:57:29,United States,Full time,Architect,2,No,40,0,Masters,Yes,No
+591,12/18/2017 0:15:18,Switzerland,Full time,DBA,4.00588774240634,Yes,42.0528533764567,0,None (no degree completed),Unknown,No
+592,12/19/2017 5:37:38,United States,Full time,Developer,2,No,45,2,Bachelors (4 years),No,No
+593,12/13/2018 1:20:11,United Kingdom,Independent or freelancer or company owner,Developer,5,No,40,3,Bachelors (4 years),No,Yes
+594,1/2/2019 9:52:23,United States,Full time,Engineer,5.13258102496918,No,40.6443870459606,1,None (no degree completed),Unknown,Yes
+595,1/5/2017 13:32:47,United States,Full time,DBA,8,Yes,45,0,Bachelors (4 years),Yes,No
+596,1/11/2017 10:05:43,United States,Full time,Developer,3,No,40,0,Masters,No,Yes
+597,1/5/2017 15:36:55,United States,Full time,Architect,7,Yes,45,0,Masters,Yes,No
+598,1/5/2017 23:07:17,India,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,No
+599,1/5/2017 20:49:27,United States,Full time,DBA,4.71650020082257,Yes,41.6771671759613,0,Bachelors (4 years),No,Yes
+600,12/18/2017 14:31:52,United States,Full time,DBA,1,No,45,1,Associates (2 years),Yes,Yes
+601,1/5/2017 8:31:22,United States,Full time,DBA,10,No,45,0,Bachelors (4 years),Yes,No
+602,1/9/2017 11:16:39,United States,Full time,DBA,0,No,40,0,Bachelors (4 years),Yes,Yes
+603,12/11/2017 16:10:07,United States,Full time,DBA,4.22536881685124,No,40.4285277670425,0,Associates (2 years),Yes,Yes
+604,12/12/2017 2:24:37,Russia,Full time,Developer,3.60361500066841,No,41.2175843456509,0,Masters,No,No
+605,1/10/2017 5:00:28,Germany,Full time,DBA,1,No,40,0,Masters,No,No
+606,12/13/2017 0:48:14,Denmark,Full time,Engineer,4.14439285714286,No,40.7518903318903,2,Bachelors (4 years),No,Yes
+607,1/6/2017 11:30:25,United States,Full time,DBA,1,No,42,0,Bachelors (4 years),Yes,No
+608,12/22/2018 7:18:54,United States,Full time,Developer,4,No,45,0,Bachelors (4 years),Yes,No
+609,12/20/2017 8:43:04,Turkey,Full time,DBA,5.06462770562771,Yes,42.4588095238095,5,Masters,Unknown,Yes
+610,12/20/2017 11:20:58,United States,Full time,Analyst,6,No,40,1,Bachelors (4 years),No,No
+611,1/5/2017 12:13:08,Sweden,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+612,1/9/2017 8:19:41,United States,Full time,DBA,1,No,45,0,Bachelors (4 years),Yes,No
+613,12/20/2017 13:46:35,United Kingdom,Full time,Manager,3.82266996496776,Yes,41.439505098392,0,Bachelors (4 years),Yes,No
+614,12/20/2017 3:04:47,United States,Full time,DBA,4,No,40,0,Bachelors (4 years),Yes,Yes
+615,12/29/2017 0:06:43,United States,Full time,Manager,3,Yes,40,5,Associates (2 years),No,No
+616,1/5/2017 12:55:40,United States,Full time,DBA,4.26138437820312,No,41.0792931889243,1,Masters,Yes,Yes
+617,1/5/2017 11:18:12,United States,Full time,DBA,5,No,40,5,Bachelors (4 years),No,No
+618,12/20/2017 9:11:42,Canada,Full time,DBA,4.71650020082257,Yes,,0,Bachelors (4 years),No,Yes
+619,1/5/2017 11:34:56,United States,Full time,Developer,3.92055483405483,Yes,41.3415,0,Masters,Yes,No
+620,1/6/2017 2:09:17,United Kingdom,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+621,1/5/2017 11:19:08,United States,Full time,DBA,6,No,42,0,None (no degree completed),Unknown,Yes
+622,1/2/2018 7:33:44,United States,Full time,Developer,5,No,40,5,Bachelors (4 years),Yes,No
+623,1/6/2017 9:13:08,Finland,Full time,Architect,1,Yes,40,0,Masters,Yes,Yes
+624,1/5/2017 11:12:27,United States,Full time,Developer,5,No,40,0,None (no degree completed),Unknown,Yes
+625,1/6/2017 3:47:15,China,Full time,Developer,1,No,40,0,Bachelors (4 years),Yes,Yes
+626,1/9/2017 8:21:13,United States,Full time,Architect,2,No,40,4,Bachelors (4 years),Yes,Yes
+627,12/12/2017 11:55:18,United States,Full time,DBA,3,No,40,0,Associates (2 years),Yes,No
+628,1/5/2017 11:18:26,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+629,1/5/2017 10:10:20,India,Full time,DBA,3.8805551948052,Yes,39.395274975025,1,Bachelors (4 years),No,Yes
+630,1/10/2017 10:43:53,United States,Full time,DBA,5,No,45,2,Bachelors (4 years),Yes,No
+631,12/12/2018 6:08:36,United States,Full time,Developer,4,No,45,0,Bachelors (4 years),Yes,No
+632,1/12/2017 7:47:00,United Kingdom,Full time,Developer,5,No,40,0,Masters,Yes,Yes
+633,12/27/2017 8:33:34,United States,Full time,DBA,4.64083006561005,No,,0,Bachelors (4 years),Yes,Yes
+634,12/17/2018 6:07:46,United States,Full time,Developer,4.7707968745634,No,,0,Bachelors (4 years),Yes,Yes
+635,12/20/2017 16:36:06,United States,Full time,Developer,4.94511378307467,No,40.146451752994,0,Masters,Yes,No
+636,1/5/2017 11:21:38,United States,Full time,DBA,8.55280555555556,No,42.2270238095238,1,Associates (2 years),No,No
+637,1/9/2017 2:37:32,Luxembourg,Full time,Developer,7,No,40,0,Bachelors (4 years),Yes,Yes
+638,1/5/2017 7:52:15,United States,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+639,12/20/2017 16:23:14,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),Yes,Yes
+640,12/12/2017 11:49:10,Canada,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,No
+641,12/22/2018 13:10:41,United Kingdom,Full time,DBA,4.70133333333333,No,41.7448888888889,5,Associates (2 years),Yes,Yes
+642,12/12/2017 11:37:36,United States,Full time,DBA,5.5699359333477,No,40.982294446051,5,None (no degree completed),Unknown,No
+643,1/9/2017 16:43:21,Australia,Full time,Manager,3,Yes,40,0,Bachelors (4 years),No,Yes
+644,1/5/2017 13:43:46,United States,Full time,Manager,3.83342692615636,Yes,41.0924308311975,0,Bachelors (4 years),No,No
+645,1/12/2017 12:34:57,United States,Full time,Engineer,5.25126755434108,No,40.7964212454213,0,Bachelors (4 years),Yes,Yes
+646,1/6/2017 7:40:01,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+647,1/6/2017 17:40:56,United States,Full time,DBA,6,No,45,0,Bachelors (4 years),Yes,Yes
+648,1/6/2017 6:56:18,Norway,Full time,DBA,5,No,40,3,Bachelors (4 years),Yes,No
+649,12/18/2017 21:45:09,United States,Full time,Analyst,2.6035428833578,No,41.6458592814608,0,Bachelors (4 years),No,No
+650,12/17/2017 18:35:19,Australia,Full time,DBA,5,No,38,1,None (no degree completed),Unknown,No
+651,1/6/2017 11:01:32,United States,Full time,Architect,3.49293181818182,No,40.6195919031948,5,Masters,Yes,Yes
+652,12/16/2018 6:02:23,United States,Full time,Architect,6.83360064935065,Yes,42.2609419191919,0,Bachelors (4 years),No,No
+653,1/8/2017 20:02:55,Philippines,Full time,Developer,5.54792352092352,Yes,41.0347637085137,0,Bachelors (4 years),No,Yes
+654,12/19/2017 18:06:53,Turkey,Full time,DBA,7,No,40,1,Doctorate/PhD,Yes,Yes
+655,12/20/2017 2:14:07,Denmark,Full time,Manager,5,Yes,42,0,Masters,No,No
+656,12/11/2017 12:16:16,United States,Full time,DBA,3,No,45,1,Masters,No,Yes
+657,1/2/2018 13:15:32,United States,Full time,Developer,4.40575169812128,No,41.2008068716629,5,Bachelors (4 years),Yes,Yes
+658,1/9/2017 12:27:42,United States,Full time,Architect,5,No,40,4,Bachelors (4 years),Yes,No
+659,1/5/2017 10:08:32,United Kingdom,Full time,DBA,10,No,45,1,Masters,Yes,Yes
+660,1/10/2017 8:08:38,United Kingdom,Full time,Manager,5,Yes,45,0,Bachelors (4 years),Yes,Yes
+661,1/12/2017 12:37:35,United States,Full time,DBA,4,No,45,0,Associates (2 years),Yes,Yes
+662,12/19/2017 2:41:55,Spain,Full time,Developer,7,No,45,0,Masters,No,No
+663,1/3/2018 20:38:37,United States,Full time,Analyst,2.6035428833578,No,41.6458592814608,0,Bachelors (4 years),No,No
+664,1/5/2017 11:35:10,United States,Full time,Engineer,5.33814120193532,No,40.2217050951285,2,Bachelors (4 years),Yes,Yes
+665,1/5/2017 11:18:32,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+666,12/21/2018 22:40:03,United States,Full time,Developer,6,No,40,1,None (no degree completed),Unknown,Yes
+667,12/19/2017 7:30:29,United Kingdom,Full time,Architect,4.88168823130372,No,40.0247917825678,0,None (no degree completed),Unknown,Yes
+668,1/4/2018 6:37:34,Germany,Full time,DBA,2,No,40,0,Associates (2 years),No,No
+669,12/13/2017 13:35:18,United States,Independent or freelancer or company owner,DBA,4.67558902354955,No,39.99,2,Bachelors (4 years),Yes,Yes
+670,1/5/2017 11:25:00,United States,Full time,Engineer,5.33814120193532,No,40.2217050951285,2,Bachelors (4 years),Yes,Yes
+671,1/8/2017 16:39:33,New Zealand,Full time,DBA,1,No,45,0,None (no degree completed),Unknown,Yes
+672,12/18/2017 17:52:55,United States,Full time,DBA,3.61827275661402,No,40.4606876994993,0,Associates (2 years),No,Yes
+673,12/20/2017 8:15:12,United States,Full time,Manager,4.99333333333333,Yes,40.5433333333333,5,Bachelors (4 years),No,Yes
+674,12/20/2017 1:31:58,South Africa,Full time,Developer,5,No,40,0,None (no degree completed),Unknown,No
+675,1/9/2017 2:30:47,Switzerland,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+676,12/11/2018 9:41:11,Slovenia,Full time,Developer,5,Yes,40,5,None (no degree completed),No,Yes
+677,1/10/2017 15:44:18,United States,Full time,Analyst,1,No,40,0,Bachelors (4 years),No,No
+678,1/10/2017 0:43:49,Poland,Full time,Engineer,4.88144360902256,Yes,41.7246428571429,0,Masters,Yes,No
+679,12/13/2017 0:17:11,Netherlands,Full time,Developer,4.7707968745634,No,40.8104297959568,0,Bachelors (4 years),Yes,Yes
+680,12/19/2017 13:32:48,United Kingdom,Full time,Developer,2,No,39,0,Bachelors (4 years),No,No
+681,1/5/2017 17:17:17,United States,Full time,DBA,1,No,45,2,Masters,Yes,Yes
+682,1/9/2017 8:44:15,United States,Full time,DBA,8,No,45,2,Masters,Yes,No
+683,12/22/2018 4:33:19,United Kingdom,Full time,Developer,6.84075396825397,No,40.26875,2,None (no degree completed),Unknown,Yes
+684,1/13/2017 11:09:30,United States,Full time,DBA,7,No,45,1,Masters,Yes,Yes
+685,12/17/2017 19:37:12,Philippines,Full time,Architect,2.5078543956044,No,40.2595604395604,2,Bachelors (4 years),No,No
+686,1/5/2017 14:41:02,United States,Full time,Developer,4.49048042527648,Yes,40.0434822122322,5,Bachelors (4 years),No,No
+687,12/27/2018 8:17:43,United States,Full time,DBA,4.14672601405319,No,40.96771598007,0,Masters,Yes,No
+688,12/21/2018 18:44:04,United States,Full time,Analyst,2,No,40,2,Bachelors (4 years),No,No
+689,12/11/2018 12:55:20,United States,Full time,DBA,5,Yes,40,1,Bachelors (4 years),Yes,No
+690,12/22/2018 6:00:27,United States,Full time,Manager,4,Yes,40,0,Masters,No,No
+691,12/12/2017 14:23:39,France,Full time,DBA,1,No,38,0,Masters,No,Yes
+692,1/5/2017 10:28:44,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+693,12/19/2017 8:41:20,United States,Full time,DBA,4,No,40,1,Bachelors (4 years),Yes,Yes
+694,1/5/2017 10:49:53,United States,Full time,DBA,3,Yes,40,0,Masters,Yes,Yes
+695,12/12/2017 11:26:47,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+696,1/9/2017 2:31:14,Macedonia,Independent or freelancer or company owner,DBA,5.32601587301587,Yes,40.39,5,Bachelors (4 years),Yes,No
+697,12/13/2017 14:15:28,United States,Full time,Developer,3,Yes,40,0,Bachelors (4 years),Yes,No
+698,12/22/2018 2:01:08,Australia,Full time,DBA,4.67480952380953,No,41.7134725274725,3,Masters,No,No
+699,1/5/2017 7:56:30,India,Full time,Architect,2.86517063492063,Yes,43.6886843434344,1,Masters,Yes,Yes
+700,12/11/2018 9:24:55,United States,Full time,DBA,4.2910907980908,Yes,41.4973214285714,0,Associates (2 years),Yes,No
+701,12/11/2018 9:16:17,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+702,12/21/2017 10:04:21,United States,Full time,DBA,6,No,40,0,Masters,Yes,No
+703,12/14/2017 15:02:43,United States,Full time,Analyst,2,No,40,0,Doctorate/PhD,No,No
+704,1/5/2017 12:58:54,United States,Full time,DBA,2,No,38,0,Bachelors (4 years),No,Yes
+705,12/12/2017 11:34:26,United States,Full time,Manager,4.93764740522635,Yes,40.0975,0,Masters,Yes,No
+706,12/11/2018 7:04:12,Spain,Full time,DBA,5.5699359333477,No,40.982294446051,5,None (no degree completed),Unknown,No
+707,12/20/2017 1:05:29,Israel,Full time,DBA,1,No,45,0,Bachelors (4 years),Yes,No
+708,12/27/2017 12:03:32,United States,Full time,Engineer,2.53032936507936,No,40.8457467532468,5,Bachelors (4 years),No,No
+709,12/17/2018 13:12:53,United States,Full time,DBA,1,No,40,0,Associates (2 years),Yes,No
+710,1/5/2017 8:39:52,India,Full time,DBA,5,Yes,40,1,Masters,No,Yes
+711,12/20/2017 8:10:29,United States,Full time,Manager,7,Yes,40,0,Bachelors (4 years),Yes,No
+712,12/29/2018 15:25:53,United States,Full time,Analyst,4,No,40,1,Bachelors (4 years),No,No
+713,12/12/2017 12:18:43,United States,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+714,12/12/2017 22:20:26,Philippines,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+715,12/19/2017 9:05:08,Brazil,Full time,DBA,5,No,40,0,Associates (2 years),Yes,Yes
+716,12/19/2017 12:04:33,United States,Full time,DBA,4.97644497756969,No,40.7119648455196,0,Masters,No,No
+717,12/26/2017 11:31:20,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+718,1/5/2017 11:17:51,United States,Full time,Developer,6.57133333333333,Yes,40.9978333333333,3,Masters,Yes,Yes
+719,1/5/2017 14:41:08,Canada,Full time,Developer,4.8809705882353,Yes,42.345,1,Doctorate/PhD,No,No
+720,12/13/2017 2:45:31,Italy,Full time,Analyst,5,Yes,40,0,None (no degree completed),No,Yes
+721,12/18/2017 12:50:22,United States,Full time,Developer,10,No,40,1,None (no degree completed),Unknown,Yes
+722,1/9/2017 13:01:05,Lithuania,Full time,Developer,3.86503246607194,No,40.8450942285269,1,Bachelors (4 years),Yes,Yes
+723,12/19/2017 6:58:08,United States,Full time,DBA,3.49526473526473,No,41.4305452602953,5,Masters,No,Yes
+724,12/23/2017 5:49:27,Romania,Independent or freelancer or company owner,DBA,5,No,40,5,Bachelors (4 years),Yes,No
+725,1/2/2018 18:47:28,United States,Full time,DBA,10,No,45,0,Bachelors (4 years),Yes,No
+726,1/9/2017 9:09:07,United States,Full time,Developer,2,No,40,5,Bachelors (4 years),No,Yes
+727,12/20/2017 10:09:17,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+728,12/18/2017 22:27:35,Finland,Full time,DBA,4.77196112547017,No,40.7615858249761,1,Bachelors (4 years),No,Yes
+729,12/20/2017 22:08:37,United States,Full time,Architect,5.12566422466423,No,42.4246626984127,1,Bachelors (4 years),Yes,No
+730,12/20/2017 13:27:41,United States,Full time,Manager,5.02133333333333,Yes,40.05,5,Bachelors (4 years),Yes,Yes
+731,1/3/2018 8:57:05,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+732,12/11/2017 9:02:30,United States,Full time,DBA,5,No,40,2,None (no degree completed),Unknown,Yes
+733,1/5/2017 11:39:05,United States,Full time,DBA,4,Yes,40,2,Bachelors (4 years),Yes,No
+734,1/5/2017 11:47:10,United Kingdom,Full time,DBA,5.57797824105719,Yes,40.2746649674802,0,Masters,No,No
+735,12/18/2017 2:09:56,United States,Full time,Developer,5.83272255522256,Yes,42.2844213980464,1,Bachelors (4 years),Yes,Yes
+736,12/18/2017 12:18:58,United States,Full time,Analyst,3,No,38,1,Bachelors (4 years),No,Yes
+737,12/20/2017 10:14:12,United States,Full time,DBA,7,No,40,0,None (no degree completed),Unknown,Yes
+738,12/20/2017 15:53:29,United Kingdom,Full time,DBA,2,Yes,45,0,Bachelors (4 years),No,Yes
+739,1/5/2017 12:37:16,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+740,12/16/2017 11:54:18,United States,Full time,Developer,5,No,40,4,Bachelors (4 years),Yes,No
+741,12/18/2017 20:41:49,United States,Full time,Developer,3.95108824578712,No,40.2893202221973,1,Bachelors (4 years),Yes,No
+742,1/9/2017 11:10:34,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+743,12/20/2018 9:43:40,United States,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+744,1/5/2017 9:31:58,United States,Full time,Developer,3.4071563051657,No,41.4059969264776,0,Bachelors (4 years),No,Yes
+745,12/16/2017 6:54:35,United Kingdom,Full time,DBA,9,No,37,0,None (no degree completed),Unknown,Yes
+746,1/5/2017 12:47:34,United States,Full time,Engineer,5.25126755434108,No,40.7964212454213,0,Bachelors (4 years),Yes,Yes
+747,1/5/2017 17:07:50,Norway,Full time,Developer,7,No,45,1,Masters,Yes,Yes
+748,1/6/2017 7:24:38,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+749,1/13/2017 3:11:18,Lithuania,Full time,DBA,4.84298970463457,Yes,40.4880966892151,0,Bachelors (4 years),Yes,No
+750,12/19/2017 10:15:51,United Kingdom,Full time,DBA,2,No,40,1,Bachelors (4 years),Yes,Yes
+751,12/25/2018 11:14:49,United States,Full time,DBA,8,No,45,0,None (no degree completed),Unknown,Yes
+752,12/20/2017 6:25:21,Sweden,Full time,Engineer,5,No,40,0,None (no degree completed),Yes,Yes
+753,1/8/2017 21:44:48,Australia,Full time,Manager,4.41438095238095,No,41.0858333333333,5,Associates (2 years),Yes,Yes
+754,12/27/2017 18:19:02,United States,Full time,DBA,10,No,40,5,Masters,Yes,Yes
+755,1/5/2017 13:55:55,United Kingdom,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+756,12/17/2017 17:13:35,United States,Full time,DBA,6,No,40,0,None (no degree completed),Unknown,Yes
+757,12/13/2017 5:19:10,United Kingdom,Full time,DBA,3,Yes,45,1,Bachelors (4 years),Yes,Yes
+758,12/11/2018 9:11:55,United States,Full time,Engineer,7,No,45,0,None (no degree completed),Unknown,No
+759,1/5/2017 11:17:40,United States,Full time,Developer,5,No,40,5,Bachelors (4 years),Yes,No
+760,1/5/2017 9:19:03,United States,Full time,Data Scientist,2,No,40,1,Bachelors (4 years),Yes,No
+761,12/18/2017 9:04:52,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,Yes
+762,12/20/2017 10:50:30,United States,Full time,DBA,8,No,45,0,None (no degree completed),Unknown,Yes
+763,1/5/2017 8:35:50,United Kingdom,Full time,DBA,4.56334920634921,No,39.3099927849928,0,None (no degree completed),No,Yes
+764,1/9/2017 8:57:33,Canada,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+765,1/9/2017 9:34:14,United States,Full time,DBA,5,No,40,1,Bachelors (4 years),Yes,Yes
+766,1/13/2017 17:48:49,United States,Full time,DBA,10,No,42,0,Associates (2 years),No,Yes
+767,1/9/2017 8:14:42,United States,Full time,Other,4,No,45,5,Associates (2 years),Yes,Yes
+768,1/5/2017 11:36:22,United Kingdom,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+769,12/26/2017 13:39:12,United States,Full time,DBA,3.96791846178417,No,41.5335127323657,5,Masters,Yes,Yes
+770,12/21/2017 14:18:27,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+771,1/9/2017 10:20:03,United States,Full time,DBA,10,No,40,3,Associates (2 years),No,Yes
+772,12/15/2017 13:02:04,Brazil,Full time,DBA,4.46140457800713,No,41.3329660943632,1,Associates (2 years),Yes,Yes
+773,1/5/2017 21:55:06,United States,Full time,Engineer,2,No,45,5,Bachelors (4 years),No,Yes
+774,1/9/2017 8:08:02,United States,Full time,Developer,5,No,40,1,Masters,Yes,Yes
+775,1/2/2018 23:21:52,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,No
+776,1/13/2017 7:54:56,United States,Full time,Developer,4.89788095238095,No,43.2715909090909,5,Masters,Yes,No
+777,12/19/2017 10:17:54,Hungary,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+778,1/5/2017 8:05:46,Greece,Full time,Developer,3.92055483405483,Yes,41.3415,0,Masters,Yes,No
+779,1/9/2017 9:34:31,Canada,Full time,Manager,4.24819715007215,Yes,40.5837166999667,0,Masters,Yes,Yes
+780,12/19/2017 8:47:46,United States,Independent or freelancer or company owner,DBA,5,No,40,4,Bachelors (4 years),Yes,No
+781,1/5/2017 14:19:12,United States,Full time,DBA,4.71650020082257,Yes,41.6771671759613,0,Bachelors (4 years),No,Yes
+782,1/11/2017 2:42:21,Norway,Full time,Developer,2,No,37,0,Masters,Yes,No
+783,1/6/2017 3:56:07,United Kingdom,Full time,DBA,7,No,38,0,None (no degree completed),Unknown,No
+784,1/11/2017 10:10:48,United States,Full time,Architect,8.06667291042291,No,40.3313888888889,5,Bachelors (4 years),No,No
+785,12/20/2017 8:24:01,United States,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+786,12/19/2017 8:21:15,Serbia and Montenegro,Full time,DBA,4.96105555555556,No,42.8429563492064,2,Masters,No,No
+787,12/20/2017 23:55:48,Hungary,Full time,Architect,8.22681529581529,No,43.9708015873016,2,Masters,Yes,No
+788,1/6/2017 12:22:28,United States,Full time,Technician ,3.37240476190476,No,39.5149782608696,0,Bachelors (4 years),Yes,No
+789,1/8/2017 20:48:06,Australia,Full time,DBA,3,No,38,0,Bachelors (4 years),Yes,Yes
+790,12/16/2018 14:50:07,New Zealand,Independent or freelancer or company owner,DBA,5,No,40,0,Bachelors (4 years),Yes,Yes
+791,12/20/2017 11:32:30,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),No,No
+792,12/20/2017 8:12:38,United States,Full time,Architect,5,No,40,2,Bachelors (4 years),Yes,Yes
+793,12/13/2017 14:07:46,United States,Full time,DBA,1,No,40,0,Masters,Yes,No
+794,1/6/2017 15:34:36,United Kingdom,Full time,Analyst,4.52357031857032,No,40.31392821884,0,None (no degree completed),Unknown,No
+795,1/5/2017 13:34:17,United States,Full time,Engineer,5,No,40,5,Bachelors (4 years),Yes,Yes
+796,12/22/2018 10:27:44,United States,Full time,Manager,5,Yes,40,5,Bachelors (4 years),Yes,No
+797,1/14/2017 4:42:38,United States,Full time,Analyst,4,No,40,2,Masters,No,No
+798,12/21/2018 22:21:13,United States,Full time,Analyst,4.4827549011314,No,40.3424649394446,0,Bachelors (4 years),Yes,No
+799,1/5/2017 7:55:13,United States,Full time,Developer,3,No,40,0,Masters,Yes,No
+800,12/29/2017 13:12:20,United States,Full time,Analyst,1,No,40,5,Bachelors (4 years),Yes,Yes
+801,1/9/2017 11:24:02,United States,Full time,Manager,2,No,40,5,Masters,Yes,No
+802,1/8/2017 1:03:45,Poland,Full time,DBA,4.47839514906318,No,40.3792591376114,2,Bachelors (4 years),Yes,Yes
+803,1/6/2017 9:25:57,United States,Full time,Developer,1,No,40,0,Bachelors (4 years),No,Yes
+804,12/20/2017 12:53:21,United States,Full time,DBA,6,No,40,0,Masters,Yes,No
+805,1/5/2017 12:01:57,United States,Full time,DBA,10,Yes,40,0,None (no degree completed),Unknown,Yes
+806,1/6/2018 11:25:52,United States,Full time,Manager,5,Yes,40,1,None (no degree completed),Unknown,Yes
+807,12/11/2018 9:13:33,United States,Full time,DBA,5,No,40,0,Masters,No,No
+808,12/22/2017 17:53:16,United States,Full time,DBA,4.61296731046731,Yes,,1,Associates (2 years),No,Yes
+809,1/6/2017 9:27:55,Portugal,Full time,Developer,4.7707968745634,No,40.8104297959568,0,Bachelors (4 years),Yes,Yes
+810,12/23/2018 17:20:11,United States,Full time,DBA,6,No,45,2,Bachelors (4 years),Yes,Yes
+811,1/13/2017 12:15:01,United States,Full time,Architect,2,No,45,0,Bachelors (4 years),Yes,Yes
+812,12/28/2017 15:13:33,United States,Full time,DBA,10,No,40,1,Associates (2 years),No,No
+813,1/6/2017 5:34:36,United Kingdom,Full time,Developer,4.7707968745634,No,40.8104297959568,0,Bachelors (4 years),Yes,Yes
+814,1/4/2018 1:50:52,Sweden,Full time,DBA,10,No,40,0,Associates (2 years),Yes,Yes
+815,12/20/2017 4:47:27,United Kingdom,Full time,DBA,1,No,40,0,Bachelors (4 years),Unknown,No
+816,12/12/2017 11:38:09,United States,Full time,Manager,5,Yes,40,1,None (no degree completed),Unknown,Yes
+817,1/9/2017 3:09:41,United Kingdom,Full time,Architect,1,No,38,0,Bachelors (4 years),Yes,Yes
+818,12/22/2017 9:49:10,United States,Full time,Manager,5.09988474107592,Yes,41.8694997779998,0,Bachelors (4 years),No,Yes
+819,12/11/2018 17:59:48,Hong Kong,Full time,DBA,3,Yes,45,2,Bachelors (4 years),Yes,Yes
+820,12/11/2017 14:55:43,Netherlands,Full time,DBA,3,No,40,1,Bachelors (4 years),Yes,Yes
+821,1/9/2017 13:47:41,United States,Full time,DBA,5,No,40,5,Masters,Yes,No
+822,12/26/2017 9:08:20,United States,Full time,Developer,2,No,40,0,Bachelors (4 years),No,No
+823,1/13/2017 11:35:26,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+824,12/20/2017 9:14:17,Colombia,Full time,Manager,4.24819715007215,Yes,40.5837166999667,0,Masters,Yes,Yes
+825,12/19/2018 3:14:09,United Kingdom,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+826,12/12/2017 13:49:43,United States,Full time,DBA,5.94686904761905,No,39.814009018759,2,Associates (2 years),Yes,No
+827,12/14/2017 3:48:34,Netherlands,Full time,Developer,4.16190336134454,Yes,38.3993968253968,0,Bachelors (4 years),Unknown,Yes
+828,1/5/2017 17:51:26,United States,Full time,Architect,10,No,45,2,Masters,Yes,No
+829,1/6/2017 14:36:37,United Kingdom,Independent or freelancer or company owner,Architect,5,Yes,40,0,Bachelors (4 years),Yes,Yes
+830,12/13/2017 7:25:58,United States,Full time,Architect,2.5633956043956,No,41.7202604857733,2,Bachelors (4 years),Yes,No
+831,1/11/2017 19:27:10,United States,Full time,Engineer,1,No,40,0,Associates (2 years),Yes,No
+832,1/7/2017 11:38:12,United States,Independent or freelancer or company owner,Architect,3.08850396825397,Yes,40.105,1,Masters,Yes,Yes
+833,12/31/2018 12:37:34,United States,Full time,DBA,4.40226374619533,Yes,41.9992648418403,1,Bachelors (4 years),Yes,No
+834,12/12/2017 14:58:36,United States,Full time,DBA,5,Yes,40,5,Bachelors (4 years),Yes,Yes
+835,1/9/2017 8:07:35,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,No
+836,1/2/2019 1:31:47,Germany,Full time,DBA,5,No,40,0,None (no degree completed),No,Yes
+837,1/5/2017 21:50:40,Australia,Independent or freelancer or company owner,DBA,5,No,40,0,None (no degree completed),Unknown,No
+838,1/5/2017 11:26:21,United States,Full time,DBA,5,No,40,2,Bachelors (4 years),No,No
+839,1/4/2018 8:52:22,United Kingdom,Full time,DBA,2,No,40,2,Bachelors (4 years),No,No
+840,1/9/2017 11:10:00,United States,Full time,Developer,10,No,40,5,Bachelors (4 years),No,No
+841,1/9/2017 10:14:31,United Kingdom,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+842,1/5/2017 17:53:52,United States,Full time,DBA,5,Yes,40,0,Bachelors (4 years),Yes,No
+843,12/22/2018 5:31:22,United Kingdom,Full time,DBA,6,No,37,0,None (no degree completed),No,No
+844,12/20/2017 13:25:59,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+845,1/5/2017 14:13:11,United States,Full time,DBA,6.66507657620158,No,42.1861481149569,5,Bachelors (4 years),No,No
+846,12/20/2017 23:44:26,Australia,Full time,Developer,4.7707968745634,No,40.8104297959568,0,Bachelors (4 years),Yes,Yes
+847,12/27/2017 8:29:55,India,Full time,Analyst,5,No,40,0,Bachelors (4 years),No,No
+848,12/18/2017 21:57:33,United States,Full time,Analyst,3,No,40,1,Masters,No,No
+849,12/22/2017 7:03:42,France,Independent or freelancer or company owner,DBA,1,Yes,40,0,Masters,No,Yes
+850,1/11/2017 13:28:31,United States,Full time,Manager,3.82266996496776,Yes,41.439505098392,0,Bachelors (4 years),Yes,No
+851,12/20/2017 8:24:16,Belarus,Full time,Developer,1,No,40,5,Masters,No,Yes
+852,12/21/2017 12:10:20,United States,Full time,DBA,4.70133333333333,No,41.7448888888889,5,Associates (2 years),Yes,Yes
+853,1/6/2018 13:35:18,United States,Full time,Developer,2,No,43,3,Bachelors (4 years),Yes,No
+854,12/12/2017 13:16:58,United States,Independent or freelancer or company owner,DBA,5,No,40,5,Masters,Yes,Yes
+855,1/5/2017 11:26:07,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),No,No
+856,12/12/2017 11:21:55,Canada,Full time,DBA,6,No,37,0,Bachelors (4 years),Yes,No
+857,1/9/2017 14:22:11,United States,Full time,Developer,4.59758333333333,Yes,40.279,1,Masters,No,No
+858,12/20/2017 11:11:10,United States,Full time,Analyst,5,No,40,0,Masters,No,Yes
+859,1/5/2017 12:13:38,United States,Full time,DBA,1,No,40,0,None (no degree completed),Unknown,No
+860,12/12/2017 12:46:38,United States,Full time,DBA,1,No,40,1,Associates (2 years),No,Yes
+861,12/12/2017 7:32:15,Switzerland,Full time,DBA,3,No,40,1,Masters,Yes,Yes
+862,12/21/2017 15:59:00,United States,Full time,DBA,4.044,Yes,40.3263484015984,0,Masters,Yes,No
+863,12/21/2018 17:59:46,United States,Full time,Developer,5,Yes,40,5,Bachelors (4 years),Yes,Yes
+864,12/29/2017 13:31:49,United States,Full time,DBA,4,No,40,1,Associates (2 years),Yes,No
+865,1/5/2017 12:10:07,United States,Full time,Architect,4.83997619047619,Yes,40.2418809523809,1,Bachelors (4 years),No,Yes
+866,1/5/2017 17:05:28,United Kingdom,Full time,Other,1,Yes,42,4,Bachelors (4 years),No,No
+867,12/20/2017 8:19:43,United States,Full time,Manager,2,Yes,40,1,Bachelors (4 years),Yes,Yes
+868,12/20/2017 13:09:58,Canada,Full time,Manager,5,Yes,40,3,Associates (2 years),Yes,No
+869,1/6/2018 12:32:07,United States,Full time,Manager,1,Yes,45,0,None (no degree completed),Unknown,No
+870,12/18/2017 16:11:49,United States,Full time,Other,5,Yes,40,0,Bachelors (4 years),Yes,Yes
+871,1/5/2017 11:39:54,United States,Full time,DBA,4.61504132115576,No,40.8101695911809,1,Bachelors (4 years),Yes,Yes
+872,12/14/2017 11:39:43,Canada,Full time,Developer,4.53021967601617,Yes,42.3697304628169,0,Bachelors (4 years),Yes,Yes
+873,1/12/2017 7:55:51,Germany,Full time,Architect,6.8027582972583,No,41.9631082251082,1,Masters,No,Yes
+874,12/15/2017 6:31:20,United Kingdom,Independent or freelancer or company owner,DBA,4.87671044546851,No,39.9600317460317,0,Bachelors (4 years),Yes,Yes
+875,12/20/2017 11:16:20,United States,Full time,Developer,3,No,40,5,Bachelors (4 years),Yes,No
+876,1/13/2017 8:24:40,United States,Full time,Developer,8,No,40,0,Bachelors (4 years),Yes,No
+877,12/20/2017 11:13:42,United States,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+878,1/5/2017 11:32:46,United States,Full time,DBA,8,No,42,0,Bachelors (4 years),No,Yes
+879,1/7/2017 9:32:14,Canada,Full time,DBA,4.19117111633958,No,40.809895582514,0,Associates (2 years),Yes,No
+880,12/12/2017 13:14:37,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+881,12/20/2017 8:17:58,Netherlands,Full time,DBA,3,No,40,0,Bachelors (4 years),No,Yes
+882,12/18/2017 12:49:11,Australia,Independent or freelancer or company owner,Developer,4.61382100305467,No,39.9423333333333,0,Bachelors (4 years),Yes,Yes
+883,1/5/2017 11:53:48,United States,Full time,DBA,5.11146532270009,No,39.1647834535786,5,Doctorate/PhD,Yes,Yes
+884,1/5/2017 13:29:41,United States,Full time,DBA,10,No,40,0,Masters,Yes,Yes
+885,1/2/2018 15:20:25,United States,Full time,Manager,3,Yes,45,0,Bachelors (4 years),No,No
+886,1/12/2017 9:18:34,United States,Full time,Developer,4,No,40,5,Bachelors (4 years),Yes,Yes
+887,12/30/2018 9:31:22,United States,Full time,DBA,7,No,40,0,Associates (2 years),Yes,Yes
+888,12/26/2017 21:03:53,United States,Full time,Architect,10,No,45,1,Bachelors (4 years),Yes,No
+889,1/11/2017 9:56:06,Colombia,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+890,12/21/2018 18:04:43,United States,Full time,DBA,1,No,45,0,Bachelors (4 years),Yes,No
+891,1/6/2017 6:17:57,United Kingdom,Full time,Analyst,1.49388095238095,No,43.1667557720058,0,Masters,Yes,No
+892,1/3/2019 5:10:19,Germany,Full time,DBA,10,No,40,0,Masters,Yes,Yes
+893,12/30/2018 20:10:21,New Zealand,Full time,Engineer,5,Yes,40,1,None (no degree completed),Unknown,Yes
+894,1/2/2018 13:23:23,United States,Full time,Analyst,3.25503318903319,No,40,0,None (no degree completed),Unknown,Yes
+895,12/28/2017 4:58:02,United Kingdom,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+896,1/9/2017 8:30:53,United States,Full time,DBA,5,No,40,2,Masters,Yes,Yes
+897,12/12/2017 16:21:45,United States,Full time,Manager,2,Yes,45,0,Bachelors (4 years),No,Yes
+898,1/5/2017 11:21:05,United States,Full time,DBA,3,No,45,2,Bachelors (4 years),No,Yes
+899,1/6/2017 7:10:23,United States,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,Yes
+900,1/11/2017 13:25:31,United States,Full time,DBA,1,No,40,0,Bachelors (4 years),Yes,Yes
+901,12/20/2018 9:33:33,United States,Full time,Manager,4.38704761904762,Yes,40.05,1,Bachelors (4 years),No,No
+902,1/5/2017 11:12:04,United States,Full time,DBA,5,Yes,40,0,Bachelors (4 years),Yes,No
+903,1/5/2017 23:33:04,Switzerland,Full time,DBA,10,No,42,0,Masters,Yes,No
+904,1/9/2017 9:43:12,United States,Full time,Manager,3.82266996496776,Yes,41.439505098392,0,Bachelors (4 years),Yes,No
+905,1/2/2018 20:08:43,Australia,Full time,Analyst,2,No,38,0,Bachelors (4 years),No,No
+906,1/2/2018 4:50:48,United Kingdom,Full time,DBA,2,Yes,37,1,Bachelors (4 years),No,Yes
+907,1/5/2017 15:31:00,Canada,Full time,DBA,10,No,40,0,Bachelors (4 years),No,Yes
+908,1/6/2017 6:37:00,Portugal,Full time,Developer,3.6830806246257,No,41.2063252590737,0,None (no degree completed),Unknown,Yes
+909,1/5/2017 11:17:39,United States,Full time,DBA,4,No,40,0,Bachelors (4 years),Yes,No
+910,12/12/2017 12:25:14,United States,Full time,DBA,10,No,40,3,None (no degree completed),Unknown,No
+911,1/2/2018 9:55:50,El Salvador,Full time,DBA,4.88967219218178,No,40.3508664031341,0,Masters,Yes,Yes
+912,1/9/2017 8:37:25,United States,Independent or freelancer or company owner,Other,5.47492063492063,No,40,0,None (no degree completed),Unknown,Yes
+913,1/5/2017 12:48:39,United States,Full time,DBA,9,No,45,0,Bachelors (4 years),Yes,No
+914,1/2/2018 13:24:52,United States,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+915,1/5/2017 11:12:25,United States,Full time,DBA,1,No,40,0,Bachelors (4 years),No,Yes
+916,12/19/2017 14:08:33,United States,Full time,DBA,6,Yes,45,0,None (no degree completed),Unknown,No
+917,1/6/2017 3:52:59,United Kingdom,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+918,12/11/2017 9:23:56,Canada,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+919,1/2/2018 13:18:07,United States,Full time,Architect,4.01115809074826,No,41.5584475248864,0,Bachelors (4 years),Yes,Yes
+920,12/16/2017 10:34:22,United States,Full time,Manager,3.83342692615636,Yes,41.0924308311975,0,Bachelors (4 years),No,No
+921,12/18/2017 15:05:34,United States,Full time,DBA,2,No,37,0,Bachelors (4 years),No,Yes
+922,1/9/2017 22:14:12,New Zealand,Full time,Developer,3,Yes,42,0,Bachelors (4 years),Yes,Yes
+923,12/22/2018 5:12:21,United States,Independent or freelancer or company owner,Developer,5,No,40,5,Bachelors (4 years),Yes,No
+924,12/12/2017 11:56:23,United States,Full time,DBA,5,No,40,5,Bachelors (4 years),No,No
+925,1/9/2017 9:06:04,United States,Full time,DBA,5,No,40,5,Masters,No,Yes
+926,12/12/2017 12:18:40,United States,Full time,DBA,1,No,42,1,Bachelors (4 years),No,No
+927,1/11/2017 14:15:35,United States,Full time,Architect,3.53392857142857,No,41.8248380647131,5,Bachelors (4 years),No,Yes
+928,12/22/2018 6:10:34,United States,Full time,Analyst,2,No,40,0,Bachelors (4 years),Yes,Yes
+929,1/5/2017 11:36:07,United States,Full time,DBA,3.79384401709402,No,41.7742007517336,1,Associates (2 years),Yes,No
+930,1/6/2017 4:28:27,Germany,Full time,Developer,4.94511378307467,No,40.146451752994,0,Masters,Yes,No
+931,12/12/2018 0:28:52,Denmark,Full time,Manager,6,Yes,40,0,Masters,No,No
+932,1/6/2017 2:44:22,United Kingdom,Full time,DBA,4.90706368326881,No,40.7270053545496,0,None (no degree completed),Unknown,Yes
+933,1/5/2017 9:43:43,United Kingdom,Independent or freelancer or company owner,Architect,5.54028571428572,No,40,1,Bachelors (4 years),No,Yes
+934,12/12/2017 15:08:49,Belgium,Full time,DBA,3.70399044756057,Yes,41.4989178327142,0,Bachelors (4 years),Yes,Yes
+935,1/9/2017 2:30:29,Italy,Full time,Manager,3.82266996496776,Yes,41.439505098392,0,Bachelors (4 years),Yes,No
+936,1/9/2017 15:06:42,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),Yes,No
+937,1/5/2017 13:17:01,Croatia,Full time,Developer,5,No,40,0,Bachelors (4 years),Yes,No
+938,12/11/2018 13:44:56,United States,Full time,Manager,5,Yes,40,0,Bachelors (4 years),No,Yes
+939,1/12/2017 9:58:22,United States,Full time,DBA,10,No,40,4,Bachelors (4 years),No,No
+940,12/12/2017 11:27:39,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+941,12/20/2017 8:55:02,United States,Full time,DBA,5.94686904761905,No,39.814009018759,2,Associates (2 years),Yes,No
+942,12/15/2017 8:35:22,United States,Full time,DBA,10,No,40,1,Associates (2 years),Yes,Yes
+943,1/10/2017 12:32:30,United States,Full time,Engineer,4,No,40,0,Bachelors (4 years),No,No
+944,1/9/2017 9:42:44,United States,Full time,Architect,5,Yes,40,5,Masters,Yes,Yes
+945,1/6/2017 7:22:22,Moldova,Full time,DBA,5,Yes,40,0,Masters,No,No
+946,1/5/2017 14:34:29,United States,Full time,DBA,4.99722354162143,Yes,40.3784170446283,0,Masters,Yes,Yes
+947,12/20/2017 9:48:02,United States,Full time,Developer,4.94511378307467,No,40.146451752994,0,Masters,Yes,No
+948,1/9/2017 9:22:50,United States,Full time,Architect,10,No,45,5,None (no degree completed),Unknown,Yes
+949,12/12/2017 12:30:40,United States,Full time,DBA,5,No,40,5,Masters,Yes,No
+950,12/11/2018 15:54:35,United States,Full time,DBA,4.22536881685124,No,40.4285277670425,0,Associates (2 years),Yes,Yes
+951,12/12/2017 12:49:59,Canada,Independent or freelancer or company owner,DBA,3.22793650793651,No,40,5,None (no degree completed),No,Yes
+952,1/5/2017 11:03:48,United States,Full time,Analyst,2,No,40,0,Masters,No,No
+953,12/13/2017 6:03:37,United States,Full time,DBA,2,No,40,0,Bachelors (4 years),No,Yes
+954,1/10/2017 17:41:39,United States,Full time,DBA,3,No,40,0,Bachelors (4 years),Yes,No
+955,1/5/2017 11:40:09,United States,Full time,DBA,2,No,42,0,None (no degree completed),Unknown,No
+956,1/6/2017 3:57:41,South Africa,Full time,Other,9,Yes,45,2,None (no degree completed),Unknown,Yes
+957,1/10/2017 6:44:30,United States,Full time,DBA,4.22536881685124,No,40.4285277670425,0,Associates (2 years),Yes,Yes
+958,1/9/2017 12:48:41,United States,Full time,DBA,0,No,42,0,Bachelors (4 years),Yes,No
+959,1/9/2017 11:20:27,United States,Full time,DBA,3,No,45,2,Bachelors (4 years),Yes,No
+960,12/13/2017 8:44:42,United States,Full time,DBA,6,No,45,2,None (no degree completed),Unknown,No
+961,12/31/2017 13:42:14,United States,Full time,Analyst,3,No,40,2,Masters,Yes,No
+962,12/18/2017 8:40:52,United States,Full time,Developer,2,No,40,5,Bachelors (4 years),Yes,Yes
+963,1/11/2017 11:58:34,Switzerland,Full time,Engineer,1,Yes,45,0,Bachelors (4 years),Yes,Yes
+964,12/13/2017 2:06:19,United Kingdom,Full time,DBA,5,No,40,0,None (no degree completed),Unknown,No
+965,1/9/2017 9:01:15,United States,Full time,DBA,8,No,40,0,Bachelors (4 years),No,Yes
+966,1/5/2017 13:26:20,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+967,1/9/2017 11:10:46,United States,Full time,Engineer,2.51985714285714,No,42.1309523809524,5,Bachelors (4 years),No,Yes
+968,12/12/2018 9:24:18,United Kingdom,Full time,Developer,5.4172757000387,No,38.8382401277584,0,Bachelors (4 years),Unknown,No
+969,1/9/2017 2:27:50,Sweden,Full time,Developer,5,No,40,0,None (no degree completed),Unknown,No
+970,12/11/2018 9:46:49,United States,Full time,DBA,5,No,40,0,Bachelors (4 years),No,Yes
+971,12/21/2018 14:23:50,United States,Full time,DBA,4,No,45,0,Masters,No,No
+972,1/3/2018 12:09:45,United States,Full time,Developer,3,No,40,1,Bachelors (4 years),Yes,No
+973,12/20/2017 9:52:31,United States,Full time,DBA,4,No,45,3,Bachelors (4 years),Yes,No
+974,1/5/2017 7:51:57,United States,Independent or freelancer or company owner,DBA,4.84566644466645,No,40.0326984126984,5,None (no degree completed),Unknown,Yes
+975,12/16/2017 19:40:40,United States,Full time,DBA,5,No,40,2,Associates (2 years),Yes,Yes
+976,1/10/2017 10:13:38,India,Full time,Manager,5.25311760461761,Yes,40.4597214773531,0,Masters,No,Yes
+977,12/21/2017 5:31:02,United States,Full time,Analyst,1,No,40,0,Masters,Yes,Yes
+978,1/12/2017 5:26:52,United Kingdom,Full time,Architect,8,Yes,43,0,Bachelors (4 years),No,No
+979,1/5/2017 13:11:08,United States,Full time,DBA,8,No,45,5,Bachelors (4 years),No,No
+980,1/9/2017 12:47:14,United States,Full time,DBA,4,No,40,5,Masters,No,No
+981,12/12/2018 0:49:34,United Kingdom,Full time,Engineer,3.32847846889952,No,43.2708412698413,0,Masters,Yes,No
+982,1/6/2017 9:46:26,United States,Full time,DBA,1,No,40,1,Bachelors (4 years),Yes,No
+983,1/5/2017 13:01:11,United States,Full time,DBA,7.65905205905206,Yes,40.828195970696,0,Associates (2 years),No,No
+984,12/11/2017 23:08:01,United States,Full time,DBA,3,No,40,1,Bachelors (4 years),Yes,Yes
+985,12/13/2017 2:03:42,United Kingdom,Full time,DBA,4,No,37,1,None (no degree completed),No,Yes
+986,12/18/2017 4:10:31,United Kingdom,Full time,Developer,7,Yes,40,1,Masters,Yes,Yes
+987,12/21/2017 1:09:37,Sweden,Full time,Developer,2,No,40,0,Bachelors (4 years),Yes,Yes
+988,12/26/2018 7:08:55,United States,Full time,DBA,5,No,40,5,Masters,Yes,Yes
+989,1/2/2018 5:55:51,United Kingdom,Full time,DBA,4.75954540585404,No,40.8074922619172,0,Masters,No,Yes
+990,1/2/2018 3:36:20,South Africa,Full time,DBA,5,Yes,40,1,Bachelors (4 years),No,Yes
+991,1/5/2017 11:15:37,United Kingdom,Full time,Architect,10,Yes,45,0,Bachelors (4 years),No,No
+992,1/5/2017 11:25:36,United States,Full time,DBA,5.49118253968254,Yes,41.1651857864358,5,Bachelors (4 years),Yes,No
+993,12/20/2017 9:11:41,United States,Full time,Other,5,No,40,0,Bachelors (4 years),Yes,Yes
+994,1/5/2017 11:27:09,United States,Full time,DBA,5,No,40,1,Associates (2 years),No,Yes
+995,12/20/2017 5:30:03,United Kingdom,Full time,DBA,9,No,37,0,None (no degree completed),Unknown,No
+996,1/5/2017 9:27:07,United States,Full time,DBA,2,No,40,4,None (no degree completed),Unknown,No
+997,1/3/2018 0:00:17,United States,Full time,Engineer,4.3448961038961,Yes,40.8673495948496,0,Bachelors (4 years),Yes,Yes
+998,1/9/2017 10:10:08,United States,Full time,DBA,10,No,40,0,Associates (2 years),Yes,Yes
+999,12/20/2017 8:42:31,United States,Full time,Developer,3,Yes,40,0,Bachelors (4 years),Yes,No
+1000,12/16/2017 20:14:04,United States,Full time,DBA,1,Yes,45,0,Bachelors (4 years),Yes,Yes
+1001,12/13/2017 0:47:58,India,Full time,DBA,4.99722354162143,Yes,40.3784170446283,0,Masters,Yes,Yes
+1002,12/13/2017 9:02:16,United States,Full time,Developer,5,No,40,1,Bachelors (4 years),No,No
+1003,12/19/2017 14:25:13,Colombia,Independent or freelancer or company owner,Engineer,5,No,40,2,Bachelors (4 years),Yes,Yes
+1004,12/27/2017 9:27:21,United States,Full time,Analyst,10,Yes,40,0,Bachelors (4 years),No,No
+1005,1/6/2017 21:11:27,United States,Full time,Developer,2,No,40,1,Bachelors (4 years),No,Yes
+1006,12/27/2017 10:35:14,United States,Full time,Architect,5,No,40,0,Bachelors (4 years),Yes,Yes
+1007,1/5/2017 13:46:52,United States,Full time,DBA,6,No,45,0,Masters,Yes,Yes
+1008,12/27/2017 6:18:16,Jordan,Full time,DBA,5.82391203404439,No,40.2777193362193,5,Bachelors (4 years),Unknown,No
+1009,12/30/2018 18:58:03,United States,Full time,Analyst,4.4827549011314,No,40.3424649394446,0,Bachelors (4 years),Yes,No
+1010,1/5/2017 11:30:36,United States,Full time,Architect,5,No,40,5,Bachelors (4 years),Yes,No
+1011,1/6/2017 0:50:05,Turkey,Full time,Developer,5,Yes,40,0,Bachelors (4 years),No,No
+1012,12/20/2017 9:36:17,United States,Full time,DBA,5,No,40,1,Masters,Yes,Yes
+1013,12/11/2017 11:33:36,United States,Full time,Developer,3,No,40,0,Masters,No,Yes
+1014,12/20/2017 13:25:00,United States,Full time,Engineer,1.80819780617853,No,40.5936467171189,0,Associates (2 years),Yes,No
+1015,12/21/2017 8:07:47,United States,Full time,DBA,5,Yes,40,5,Associates (2 years),Yes,Yes
+1016,12/31/2018 23:25:56,United States,Full time,Engineer,6,No,40,0,Bachelors (4 years),Yes,Yes
+1017,1/5/2017 13:51:56,United States,Full time,Developer,4.11272897715222,No,40.8092582064971,0,Bachelors (4 years),No,No
+1018,12/21/2017 3:37:27,United Kingdom,Full time,DBA,4.50658333333333,No,38.7420674603175,1,None (no degree completed),No,Yes
+1019,12/20/2017 15:56:44,Germany,Full time,Engineer,3,No,45,0,Masters,Yes,No
+1020,1/9/2017 10:25:39,United States,Full time,Analyst,5,No,40,0,Bachelors (4 years),No,Yes
+1021,12/12/2018 8:21:19,United Kingdom,Full time,Manager,3.82266996496776,Yes,41.439505098392,0,Bachelors (4 years),Yes,No
+1022,12/20/2017 8:09:45,United States,Full time,Manager,4.9475,Yes,40.05,1,None (no degree completed),Unknown,Yes
+1023,12/20/2017 11:46:32,United Kingdom,Full time,Developer,2,No,38,2,Bachelors (4 years),Yes,Yes
+1024,12/15/2017 11:30:26,United States,Full time,DBA,4.46140457800713,No,41.3329660943632,1,Associates (2 years),Yes,Yes
+1025,12/26/2017 19:29:13,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+1026,12/20/2017 12:34:53,United States,Full time,Developer,2,No,45,0,None (no degree completed),Unknown,No
+1027,1/8/2017 9:35:59,United States,Full time,DBA,5,No,40,5,Bachelors (4 years),Yes,No
+1028,12/21/2017 6:45:49,Dominican Republic,Full time,DBA,3.95757874168842,No,40.301676911036,0,None (no degree completed),Unknown,No
+1029,1/6/2017 9:13:18,United Kingdom,Full time,Developer,4.0291038961039,No,39.3124304000597,0,None (no degree completed),No,No
+1030,1/6/2017 11:50:28,United States,Full time,Developer,2,No,42,0,Masters,No,No
+1031,1/6/2017 22:16:48,United Kingdom,Full time,DBA,4.98695652173913,No,41.3661904761905,1,Masters,No,No
+1032,12/28/2017 14:06:56,United States,Full time,DBA,3.70399044756057,Yes,41.4989178327142,0,Bachelors (4 years),Yes,Yes
+1033,1/5/2017 21:17:02,United States,Full time,Developer,4.53021967601617,Yes,42.3697304628169,0,Bachelors (4 years),Yes,Yes
+1034,1/5/2017 11:16:19,United States,Full time,Architect,5,Yes,40,0,Bachelors (4 years),Yes,Yes
+1035,12/20/2017 8:11:54,United States,Full time,DBA,5,No,40,5,Bachelors (4 years),Yes,Yes
+1036,12/12/2017 3:21:07,Romania,Full time,Developer,4.11272897715222,No,40.8092582064971,0,Bachelors (4 years),No,No
+1037,12/20/2017 9:10:08,Netherlands,Independent or freelancer or company owner,Engineer,5,No,40,0,Bachelors (4 years),No,Yes
+1038,1/5/2017 21:40:38,India,Full time,DBA,4.64083006561005,No,41.1141375651309,0,Bachelors (4 years),Yes,Yes
+1039,12/22/2018 17:09:15,United States,Full time,Analyst,4,No,40,1,Masters,No,No
+1040,12/15/2018 2:36:06,United States,Full time,DBA,5,No,45,4,Bachelors (4 years),Yes,Yes
+1041,1/8/2017 8:19:50,United States,Independent or freelancer or company owner,Architect,5,Yes,40,4,Bachelors (4 years),Yes,Yes
+1042,12/20/2017 9:29:38,United Kingdom,Full time,Engineer,3,No,37,0,None (no degree completed),Unknown,No
+1043,1/9/2017 12:12:55,United Kingdom,Full time,DBA,1,No,40,0,Bachelors (4 years),Yes,Yes
+1044,1/9/2017 8:44:53,United States,Full time,Manager,3,Yes,40,0,Bachelors (4 years),Yes,Yes
+1045,12/20/2017 9:57:56,United States,Full time,Developer,10,Yes,40,0,Bachelors (4 years),Yes,No
+1046,12/12/2017 12:28:28,United States,Full time,DBA,4.71650020082257,Yes,41.6771671759613,0,Bachelors (4 years),No,Yes
+1047,12/12/2017 11:24:33,United States,Full time,DBA,5,No,45,0,Bachelors (4 years),Yes,Yes
+1048,1/13/2017 12:40:58,United States,Full time,DBA,4.39897442599596,No,40.9390320654104,0,Bachelors (4 years),Yes,No
+1049,12/20/2017 2:07:47,Slovenia,Full time,Architect,3,Yes,40,1,Bachelors (4 years),Yes,Yes
+1050,12/11/2017 23:42:48,United States,Full time,DBA,5.27231452726018,No,40.3069887955182,4,Bachelors (4 years),Yes,No
+1051,1/5/2017 9:16:17,United States,Full time,DBA,10,Yes,40,0,Bachelors (4 years),Yes,No
+1052,12/11/2018 9:59:35,United States,Full time,DBA,2,Yes,40,0,Masters,Yes,Yes
+1053,12/19/2017 7:36:10,Brazil,Independent or freelancer or company owner,Developer,5,No,40,2,Bachelors (4 years),Yes,No
+1054,12/12/2017 9:56:55,United States,Full time,DBA,1,No,40,0,Masters,Yes,No
+1055,1/9/2017 10:54:16,United States,Full time,DBA,10,No,40,2,Masters,No,Yes
+1056,12/28/2018 9:55:56,United States,Full time,Developer,3.86503246607194,No,40.8450942285269,1,Bachelors (4 years),Yes,Yes
+1057,12/26/2017 12:25:24,United States,Full time,DBA,5,No,40,2,Bachelors (4 years),Yes,Yes
+1058,12/21/2018 16:14:08,United States,Full time,Developer,2,No,45,5,Masters,No,No
+1059,12/20/2017 5:45:18,United States,Full time,DBA,4.04073862302981,No,40.9044485061286,0,Bachelors (4 years),No,No
+1060,1/5/2017 11:30:05,United States,Full time,Developer,6.10519696969697,No,43.7865270562771,3,Bachelors (4 years),Yes,Yes
+1061,12/17/2018 18:19:12,United States,Full time,DBA,4.61504132115576,No,40.8101695911809,1,Bachelors (4 years),Yes,Yes
+1062,12/12/2017 11:30:19,United States,Full time,Developer,4.45645192422728,No,40.8940884054592,0,Bachelors (4 years),Yes,No
+1063,12/20/2017 9:38:16,United States,Full time,Manager,5.05583333333333,Yes,40.44,5,None (no degree completed),Unknown,Yes
+1064,1/5/2017 12:05:31,United States,Full time,Developer,3,No,40,1,None (no degree completed),Unknown,No
+1065,12/26/2017 19:06:40,Australia,Full time,DBA,4,No,45,5,None (no degree completed),Unknown,Yes
+1066,12/20/2017 8:14:34,United States,Full time,Manager,4.21706313131313,Yes,41.0161507936508,1,Bachelors (4 years),Yes,No
+1067,12/21/2018 15:46:12,United States,Full time,Developer,4,Yes,37,1,Associates (2 years),Yes,No
+1068,12/12/2017 11:33:04,United States,Full time,Developer,5,No,40,1,Bachelors (4 years),Yes,No
+1069,12/17/2018 8:44:54,United States,Full time,DBA,4.90706368326881,No,40.7270053545496,0,None (no degree completed),Unknown,Yes
+1070,1/5/2017 11:20:01,Germany,Full time,Architect,4.90691896669222,No,40.089816638994,0,Masters,Yes,Yes
